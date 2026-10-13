@@ -1,0 +1,12 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Awesome AI Tools CN · 中文 AI 工具导航清单 | 51发现导航</title>
+<meta name="description" content="558+ 个 AI 工具与常用网站中文清单，标注国内能否直连、是否免费、是否需要海外手机号。数据来自 51发现导航 51cgw9.cc。">
+<link rel="canonical" href="https://51cgw9.cc/">
+<style>body{font-family:system-ui,-apple-system,"PingFang SC",sans-serif;margin:0;background:#0f0a1f;color:#eee}header{text-align:center;padding:40px 16px;background:linear-gradient(135deg,#7c3aed,#2563eb)}h1{margin:0 0 8px}a{color:#c4b5fd}.cta{display:inline-block;margin:12px 6px;padding:10px 20px;background:#facc15;color:#111;border-radius:999px;font-weight:700;text-decoration:none}#q{width:min(600px,90%);padding:14px 18px;font-size:17px;border-radius:12px;border:0;margin-top:14px}main{max-width:1100px;margin:auto;padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}.c{background:#1c1535;border-radius:12px;padding:14px}.c a{font-weight:700;color:#fff;text-decoration:none}.c p{font-size:13px;color:#bbb;margin:6px 0}.t{font-size:12px;color:#facc15}footer{text-align:center;padding:30px;color:#888}</style></head>
+<body><header><h1>Awesome AI Tools CN</h1><div>中文 AI 工具与常用网站导航清单 · 每日自动同步</div>
+<a class="cta" href="https://51cgw9.cc/?utm_source=github-pages">打开 51发现导航 →</a><a class="cta" href="https://51cgw9.cc/hot/?utm_source=github-pages">🔥 今日热榜</a><a class="cta" href="https://51cgw9.cc/alternatives/?utm_source=github-pages">🔁 AI 替代品</a><br>
+<input id="q" placeholder="搜索工具，如 ChatGPT、写论文、画图…" autofocus></header><main id="m">加载中…</main>
+<footer>数据来自 <a href="https://51cgw9.cc/?utm_source=github-pages">51发现导航 51cgw9.cc</a> · <a href="https://github.com/51fxdaohang/awesome-ai-tools-cn">GitHub</a> · CC0</footer>
+<script>const A={cn:'🇨🇳 直连',vpn:'🌐 需代理'},P={free:'🆓 免费',freemium:'💡 免费+付费',paid:'💰 付费'};let D=[];const e=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function r(q){q=q.toLowerCase();m.innerHTML=D.filter(s=>!q||(s.title+s.desc+s.cats.map(c=>c.name).join()).toLowerCase().includes(q)).slice(0,300).map(s=>`<div class="c"><a href="${s.page}?utm_source=github-pages">${e(s.title)}</a><p>${e(s.desc.slice(0,80))}</p><span class="t">${[A[s.access],P[s.price]].filter(Boolean).join(' ')}</span></div>`).join('')||'没有找到，去 <a href="https://51cgw9.cc/?s='+encodeURIComponent(q)+'&utm_source=github-pages">51发现导航搜索</a>'}
+fetch('data.json').then(r=>r.json()).then(d=>{D=d.sites;r('')});q.oninput=()=>r(q.value)</script></body></html>
