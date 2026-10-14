@@ -4,11 +4,11 @@
 
 **中文 AI 工具与常用网站导航清单 · 每日自动同步**
 
-[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-1132-blue) ![更新](https://img.shields.io/badge/更新-2026--10--14-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
+[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-1135-blue) ![更新](https://img.shields.io/badge/更新-2026--10--14-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
 </div>
 
-> 精选 **1132** 个 AI 工具与常用网站，标注 **国内能否直连 / 是否免费 / 是否需要海外手机号**。在线版（可搜索、可收藏、实时可用性）：👉 **[51发现导航 51cgw9.cc](https://51cgw9.cc/?utm_source=github)**
+> 精选 **1135** 个 AI 工具与常用网站，标注 **国内能否直连 / 是否免费 / 是否需要海外手机号**。在线版（可搜索、可收藏、实时可用性）：👉 **[51发现导航 51cgw9.cc](https://51cgw9.cc/?utm_source=github)**
 
 🔥 [今日热榜](https://51cgw9.cc/hot/?utm_source=github) · 🔁 [AI 替代品](https://51cgw9.cc/alternatives/?utm_source=github) · 🚫 [Claude 替代品](https://51cgw9.cc/alternatives/claude/?utm_source=github) · ➕ [提交网站](https://51cgw9.cc/submit/?utm_source=github)
 
@@ -22,9 +22,9 @@
 - [学习教育](#学习教育)（58）
 - [资讯阅读](#资讯阅读)（67）
 - [生活服务](#生活服务)（113）
-- [影音娱乐](#影音娱乐)（84）
+- [影音娱乐](#影音娱乐)（85）
 - [搜索与知识](#搜索与知识)（77）
-- [币圈Web3](#币圈web3)（141）
+- [币圈Web3](#币圈web3)（143）
 - [最新专题文章](#最新专题文章)
 - [参与贡献](#参与贡献)
 
@@ -34,6 +34,8 @@
 - [国内直连 AI 工具清单](https://github.com/51fxdaohang/ai-tools-china-direct)
 - [免费 AI 工具清单](https://github.com/51fxdaohang/free-ai-tools-cn)
 - [Awesome AI Coding CN · AI 编程工具中文清单](https://github.com/51fxdaohang/awesome-ai-coding-cn)
+- [币圈 Web3 工具导航 · Awesome Web3 Tools CN](https://github.com/51fxdaohang/awesome-web3-tools-cn)
+- [常用网址导航（hao123 式）· Useful Websites CN](https://github.com/51fxdaohang/useful-websites-cn)
 
 ## AI 工具
 
@@ -988,6 +990,7 @@
 | [Convertio](https://51cgw9.cc/sites/2131.html?utm_source=github&utm_campaign=main) | 在线文件转换工具，支持音视频、文档、图片和电子书等格式。 | — |
 | [mpv](https://51cgw9.cc/sites/2132.html?utm_source=github&utm_campaign=main) | 开源免费的跨平台媒体播放器，轻量且支持高质量视频渲染。 | 🆓 免费 |
 | [IINA](https://51cgw9.cc/sites/2133.html?utm_source=github&utm_campaign=main) | macOS 上的开源现代视频播放器，基于 mpv。 | 🆓 免费 |
+| [NBA中国](https://51cgw9.cc/sites/2240.html?utm_source=github&utm_campaign=main) | NBA官方中文网站，提供NBA新闻、比赛数据、球队球员信息和赛程。 | 🇨🇳 直连 🆓 免费 |
 
 ## 搜索与知识
 
@@ -1216,24 +1219,26 @@
 | [Coinbase Wallet](https://51cgw9.cc/sites/1829.html?utm_source=github&utm_campaign=main) | Coinbase 推出的自托管钱包（现称 Base App），支持多链资产和 DApp 浏览。 | 🆓 免费 |
 | [Exodus](https://51cgw9.cc/sites/1830.html?utm_source=github&utm_campaign=main) | 老牌多币种自托管钱包，支持桌面、手机和浏览器扩展。 | 🆓 免费 |
 | [Bitcoin Treasuries](https://51cgw9.cc/sites/1831.html?utm_source=github&utm_campaign=main) | 统计上市公司、国家政府和比特币ETF持有比特币数量的公开数据网站，可看机构持仓排名。 | 🆓 免费 |
+| [BscScan](https://51cgw9.cc/sites/2241.html?utm_source=github&utm_campaign=main) | BNB Smart Chain 的区块浏览器，由 Etherscan 团队运营，可查交易、地址和 BEP20 代币。 | 🆓 免费 |
+| [Basescan](https://51cgw9.cc/sites/2242.html?utm_source=github&utm_campaign=main) | Coinbase 孵化的 Base 二层网络区块浏览器，由 Etherscan 团队运营。 | 🆓 免费 |
 
 ## 最新专题文章
 
+- [免费图片素材网站推荐：可商用无版权图片、插画、图标、字体与视频素材](https://51cgw9.cc/topics/free-stock-image-sites/?utm_source=github&utm_campaign=main)
+- [找工作网站有哪些？2026靠谱招聘网站排行榜与求职工具](https://51cgw9.cc/topics/job-search-websites/?utm_source=github&utm_campaign=main)
+- [自媒体工具大全：写作、做图、剪辑、配音、素材一站式自媒体工具箱](https://51cgw9.cc/topics/self-media-tools/?utm_source=github&utm_campaign=main)
+- [设计师网站大全：设计师常用网站、灵感、素材、字体与在线设计工具](https://51cgw9.cc/topics/designer-websites/?utm_source=github&utm_campaign=main)
+- [币圈网站大全：行情、交易所、钱包、链上数据与资讯常用网站（官方入口）](https://51cgw9.cc/topics/crypto-websites-list/?utm_source=github&utm_campaign=main)
+- [免费AI工具有哪些？2026最好用的免费AI网站推荐（对话、绘画、视频、配音、编程）](https://51cgw9.cc/topics/free-ai-tools-list/?utm_source=github&utm_campaign=main)
+- [AI做PPT哪个最好用？AI一键生成PPT工具推荐与对比](https://51cgw9.cc/topics/ai-ppt-tools/?utm_source=github&utm_campaign=main)
+- [AI视频生成工具哪个好？免费AI视频生成网站推荐（文生视频、数字人、剪辑）](https://51cgw9.cc/topics/ai-video-generator-tools/?utm_source=github&utm_campaign=main)
+- [AI生成图片网站推荐：免费在线AI绘画、AI海报与抠图工具大全](https://51cgw9.cc/topics/ai-image-generator-sites/?utm_source=github&utm_campaign=main)
+- [国内能用的AI工具有哪些？2026国内直连AI网站大全（ChatGPT替代）](https://51cgw9.cc/topics/china-ai-tools/?utm_source=github&utm_campaign=main)
+- [Gemini 4 Argon怎么用？App、AI Studio与API教程](https://51cgw9.cc/topics/gemini-4-argon-how-to-use/?utm_source=github&utm_campaign=main)
 - [Gemini 4 Argon是什么？价格与国内能用吗](https://51cgw9.cc/topics/gemini-4-argon-what-is/?utm_source=github&utm_campaign=main)
 - [Web3学习路线：从“web3是什么意思”到会写智能合约](https://51cgw9.cc/topics/web3-learning-roadmap/?utm_source=github&utm_campaign=main)
 - [空投是什么意思？撸毛入门与防骗指南（别把“领空投”领成被盗）](https://51cgw9.cc/topics/airdrop-guide-anti-scam/?utm_source=github&utm_campaign=main)
 - [链上数据工具大全：区块浏览器、链上分析与地址追踪怎么用](https://51cgw9.cc/topics/onchain-data-tools-guide/?utm_source=github&utm_campaign=main)
-- [冷钱包和热钱包的区别：Web3钱包怎么选、助记词怎么保管](https://51cgw9.cc/topics/cold-vs-hot-wallet-guide/?utm_source=github&utm_campaign=main)
-- [主流加密货币交易所对比：币安、欧易、Coinbase等怎么看合规与安全](https://51cgw9.cc/topics/crypto-exchange-comparison/?utm_source=github&utm_campaign=main)
-- [比特币怎么买？新手了解比特币的安全指南（合规、防骗与钱包）](https://51cgw9.cc/topics/how-to-buy-bitcoin-safely-guide/?utm_source=github&utm_campaign=main)
-- [Mistral Large 4是什么？开源权重时间、价格与跑分要点](https://51cgw9.cc/topics/mistral-large-4-what-is/?utm_source=github&utm_campaign=main)
-- [Meta Muse Wonder是什么？主动记忆、价格与怎么用一文看懂](https://51cgw9.cc/topics/meta-muse-wonder-what-is/?utm_source=github&utm_campaign=main)
-- [Claude API封号与组织暂停：开发者和企业需要知道的规则](https://51cgw9.cc/topics/claude-api-ban-enterprise-rules/?utm_source=github&utm_campaign=main)
-- [Claude替代品推荐：国内可合规使用的AI对话与编程工具](https://51cgw9.cc/topics/claude-alternatives-china/?utm_source=github&utm_campaign=main)
-- [Claude被封怎么办？官方申诉流程、数据导出与注意事项](https://51cgw9.cc/topics/claude-banned-appeal-guide/?utm_source=github&utm_campaign=main)
-- [Claude封号原因有哪些？官方列出的三类原因与地区政策解读](https://51cgw9.cc/topics/claude-account-ban-reasons/?utm_source=github&utm_campaign=main)
-- [Claude电商智能体开源蓝图：购物助手和商家助手能做什么、不能做什么](https://51cgw9.cc/topics/claude-commerce-agents-blueprint/?utm_source=github&utm_campaign=main)
-- [ChatGPT升级GPT-6：Intelligent UI互动回答怎么用，免费版有什么区别](https://51cgw9.cc/topics/chatgpt-gpt-6-intelligent-ui-guide/?utm_source=github&utm_campaign=main)
 
 ## 参与贡献
 
