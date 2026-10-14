@@ -49,7 +49,7 @@ if MODE == 'main':
     out = [f"<div align=\"center\">\n\n# Awesome AI Tools CN\n\n**中文 AI 工具与常用网站导航清单 · 每日自动同步**\n\n{badges(len(S),'main')}\n\n</div>\n",
            f"> 精选 **{len(S)}** 个 AI 工具与常用网站，标注 **国内能否直连 / 是否免费 / 是否需要海外手机号**。在线版（可搜索、可收藏、实时可用性）：👉 **[51发现导航 51cgw9.cc](https://51cgw9.cc/?utm_source=github)**\n",
            NAV, '\n## 目录\n', '- [专题清单](#专题清单)'] + [f"- [{g}](#{g.replace(' ', '-').lower()})（{len(v)}）" for g, v in groups.items()] + ['- [最新专题文章](#最新专题文章)', '- [参与贡献](#参与贡献)']
-    out += ['\n## 专题清单\n'] + [f"- [{v['title']}](https://github.com/51fxdaohang/{k})" for k, v in CFG.items()]
+    out += ['\n## 专题清单\n'] + [f"- [{v['title']}](https://github.com/51fxdaohang/{k})" for k, v in CFG.items()] + ['- [币圈 Web3 工具导航 · Awesome Web3 Tools CN](https://github.com/51fxdaohang/awesome-web3-tools-cn)', '- [常用网址导航（hao123 式）· Useful Websites CN](https://github.com/51fxdaohang/useful-websites-cn)']
     for g, v in groups.items(): out += [f"\n## {g}\n", table(v, 'main')]
     out += ['\n## 最新专题文章\n', tlist(T[:15], 'main'), '\n## 参与贡献\n', '欢迎推荐好用的工具或报告失效链接，请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。本 README 由 [GitHub Actions](.github/workflows/sync.yml) 每日从站点数据自动生成，请勿直接编辑表格。', FOOT]
     open('README.md', 'w').write('\n'.join(out))
