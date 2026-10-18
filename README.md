@@ -4,7 +4,7 @@
 
 **中文 AI 工具与常用网站导航清单 · 每日自动同步**
 
-[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-2134-blue) ![更新](https://img.shields.io/badge/更新-2026--10--17-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
+[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-2134-blue) ![更新](https://img.shields.io/badge/更新-2026--10--18-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
 </div>
 
@@ -2223,21 +2223,21 @@
 
 ## 最新专题文章
 
-- [Ledger Atom是什么？849美元预订、2027年发货，和Nano/Stax硬件钱包差在哪、值不值得等](https://51cgw9.cc/topics/ledger-atom-what-is-849-reserve/?utm_source=github&utm_campaign=main)
-- [OpenCode免费用DeepSeek V4.1 Flash怎么配？模型ID、200K上下文限制、和付费版差在哪](https://51cgw9.cc/topics/opencode-deepseek-v4-1-flash-free-how-to/?utm_source=github&utm_campaign=main)
-- [Figma code layers是什么？公测怎么用：设计稿变可运行原型、连GitHub提PR、11月4日前免AI积分](https://51cgw9.cc/topics/figma-code-layers-open-beta-how-to/?utm_source=github&utm_campaign=main)
-- [Gmail AI Inbox和Gmail Live是什么？Workspace付费版怎么开、谁能用、国内账号有没有](https://51cgw9.cc/topics/gmail-ai-inbox-gmail-live-workspace-how-to/?utm_source=github&utm_campaign=main)
-- [FLUX 3 Image Klein是什么？怎么用：5.6B开源权重本地出图、8GB显卡能不能跑、能否商用](https://51cgw9.cc/topics/flux-3-image-klein-what-is-how-to/?utm_source=github&utm_campaign=main)
-- [Coinbase谈比特币抗量子迁移是什么意思？普通人要不要迁地址、和炒币差在哪](https://51cgw9.cc/topics/coinbase-bitcoin-post-quantum-what-means/?utm_source=github&utm_campaign=main)
-- [ChatGPT GPT-Live-1.1是什么？新音色怎么选、各套餐时长、和Advanced Voice差在哪](https://51cgw9.cc/topics/openai-gpt-live-1-1-voices-what-is/?utm_source=github&utm_campaign=main)
-- [GitHub Agentic autofix是什么？怎么开、和Generate Fix差在哪、要不要Copilot](https://51cgw9.cc/topics/github-agentic-autofix-what-is/?utm_source=github&utm_campaign=main)
-- [NVIDIA Nemotron 3.5 Super VL与Bolt是什么？怎么下、本地/云怎么跑、和Lightning/Ultra怎么选](https://51cgw9.cc/topics/nemotron-35-super-vl-bolt-what-is/?utm_source=github&utm_campaign=main)
-- [Gemini 4 Argon是什么？怎么用、多少钱、和以前Gemini差在哪](https://51cgw9.cc/topics/gemini-4-argon-what-is-how-to/?utm_source=github&utm_campaign=main)
-- [美SEC给代币化美股交易场五年豁免是什么？普通人要不要碰、和炒币差在哪](https://51cgw9.cc/topics/sec-tokenized-stock-relief-what-means/?utm_source=github&utm_campaign=main)
-- [Google News AI试点扩到400多家媒体是什么？读者能看到什么、和普通摘要差在哪](https://51cgw9.cc/topics/google-news-ai-pilot-400-what-is/?utm_source=github&utm_campaign=main)
-- [Anthropic给METR「类员工」访问权是什么意思？第三方评测三档怎么分、普通人能看到什么](https://51cgw9.cc/topics/anthropic-metr-evaluator-access-what-means/?utm_source=github&utm_campaign=main)
-- [GitHub AI Scan是什么？PR怎么开、和CodeQL差在哪、要不要Copilot](https://51cgw9.cc/topics/github-ai-scan-pr-what-is-how-to/?utm_source=github&utm_campaign=main)
-- [Meta Muse Spark Open是什么？怎么用？816B开源权重本地/API怎么跑、和闭源模型差在哪](https://51cgw9.cc/topics/muse-spark-open-what-is-how-to/?utm_source=github&utm_campaign=main)
+- [PlayStation官方播客551期更新：下周新作不少，别把发售、预购和会免混在一起](https://51cgw9.cc/topics/playstation-podcast-551-oct16-release-calendar/?utm_source=github&utm_campaign=main)
+- [《PEAK》10月22日登陆PS5：想和朋友跨平台爬山，先把这几件事对齐](https://51cgw9.cc/topics/peak-ps5-oct22-crossplay-before-buy/?utm_source=github&utm_campaign=main)
+- [Spotify推出CLOSER：Hearts2Hearts首发现场，和普通歌单有什么不同](https://51cgw9.cc/topics/spotify-closer-hearts2hearts-video-series/?utm_source=github&utm_campaign=main)
+- [Xbox把Game Camp带到墨西哥城：独立开发者能学到的不只是“参加活动”](https://51cgw9.cc/topics/xbox-latam-game-camp-mexico-creator-lessons/?utm_source=github&utm_campaign=main)
+- [Tenebris Somnia发售：像素游戏突然切真人，适合哪类恐怖游戏玩家](https://51cgw9.cc/topics/tenebris-somnia-live-action-horror-release/?utm_source=github&utm_campaign=main)
+- [郑州马拉松明早开跑：不参赛的人，也该看一眼这些交通时间](https://51cgw9.cc/topics/zhengzhou-marathon-oct18-traffic-checklist/?utm_source=github&utm_campaign=main)
+- [张杰深圳站这个周末连开三场：2026日期和场馆，别套用两年前攻略](https://51cgw9.cc/topics/jason-zhang-shenzhen-october2026-weekend-info/?utm_source=github&utm_campaign=main)
+- [谢霆锋10月17日南昌场：场馆别认错，演出信息与网络现场视频分开看](https://51cgw9.cc/topics/nicholas-tse-nanchang-oct17-concert-public-info/?utm_source=github&utm_campaign=main)
+- [《奔跑吧》大湾区篇进入录制：路透很热闹，但录制不等于已经开播](https://51cgw9.cc/topics/running-man-greater-bay-area-recording-not-airdate/?utm_source=github&utm_campaign=main)
+- [《嫁金钗》开播了：田曦薇、闫桉新剧在哪看，先别被“全集资源”带跑](https://51cgw9.cc/topics/jia-jin-chai-youku-oct16-watch-guide/?utm_source=github&utm_campaign=main)
+- [Google更新Workspace数据说明：不是所有邮件都拿去训练，关键看开关和场景](https://51cgw9.cc/topics/google-workspace-personalization-oct16-privacy-update/?utm_source=github&utm_campaign=main)
+- [NVIDIA公布2.8万亿token印度语言语料计划：先别把“即将发布”当成已能下载](https://51cgw9.cc/topics/nvidia-indic-pretraining-corpus-announced-not-shipped/?utm_source=github&utm_campaign=main)
+- [Cloudflare更新机器人信任机制：Verified不等于永远放行，站长该看什么](https://51cgw9.cc/topics/cloudflare-verified-bots-continuous-accountability/?utm_source=github&utm_campaign=main)
+- [印度CERT-In发布AI Agent安全通告：给了任务，不代表给了所有权限](https://51cgw9.cc/topics/cert-in-ai-agent-advisory-permission-boundaries/?utm_source=github&utm_campaign=main)
+- [Anthropic发布工作研究：AI用得多，为什么不等于所有岗位都会同样变化](https://51cgw9.cc/topics/anthropic-ai-work-expectations-study-boundary/?utm_source=github&utm_campaign=main)
 
 ## 参与贡献
 
@@ -2245,6 +2245,6 @@
 
 ---
 
-数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-17。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
+数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-18。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
 
 许可：[CC0 1.0](LICENSE)
