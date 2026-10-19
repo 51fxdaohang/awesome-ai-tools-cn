@@ -4,27 +4,27 @@
 
 **中文 AI 工具与常用网站导航清单 · 每日自动同步**
 
-[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-2134-blue) ![更新](https://img.shields.io/badge/更新-2026--10--18-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
+[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-2467-blue) ![更新](https://img.shields.io/badge/更新-2026--10--19-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
 </div>
 
-> 精选 **2134** 个 AI 工具与常用网站，标注 **国内能否直连 / 是否免费 / 是否需要海外手机号**。在线版（可搜索、可收藏、实时可用性）：👉 **[51发现导航 51cgw9.cc](https://51cgw9.cc/?utm_source=github)**
+> 精选 **2467** 个 AI 工具与常用网站，标注 **国内能否直连 / 是否免费 / 是否需要海外手机号**。在线版（可搜索、可收藏、实时可用性）：👉 **[51发现导航 51cgw9.cc](https://51cgw9.cc/?utm_source=github)**
 
 🔥 [今日热榜](https://51cgw9.cc/hot/?utm_source=github) · 🔁 [AI 替代品](https://51cgw9.cc/alternatives/?utm_source=github) · 🚫 [Claude 替代品](https://51cgw9.cc/alternatives/claude/?utm_source=github) · ➕ [提交网站](https://51cgw9.cc/submit/?utm_source=github)
 
 ## 目录
 
 - [专题清单](#专题清单)
-- [AI 工具](#ai-工具)（416）
-- [办公效率](#办公效率)（281）
-- [开发工具](#开发工具)（310）
-- [设计创意](#设计创意)（198）
-- [学习教育](#学习教育)（118）
-- [资讯阅读](#资讯阅读)（116）
-- [生活服务](#生活服务)（222）
-- [影音娱乐](#影音娱乐)（164）
-- [搜索与知识](#搜索与知识)（144）
-- [币圈Web3](#币圈web3)（165）
+- [AI 工具](#ai-工具)（474）
+- [办公效率](#办公效率)（340）
+- [开发工具](#开发工具)（331）
+- [设计创意](#设计创意)（231）
+- [学习教育](#学习教育)（143）
+- [资讯阅读](#资讯阅读)（148）
+- [生活服务](#生活服务)（256）
+- [影音娱乐](#影音娱乐)（193）
+- [搜索与知识](#搜索与知识)（155）
+- [币圈Web3](#币圈web3)（196）
 - [最新专题文章](#最新专题文章)
 - [参与贡献](#参与贡献)
 
@@ -387,7 +387,7 @@
 | [标小智](https://51cgw9.cc/sites/4050.html?utm_source=github&utm_campaign=main) | 国内在线 Logo 生成工具，输入品牌名称和行业即可智能生成多款 Logo 方案，并可延展名片等 VI 物料。 | 🇨🇳 直连 |
 | [秒哒](https://51cgw9.cc/sites/4051.html?utm_source=github&utm_campaign=main) | 百度推出的无代码应用搭建平台，用一句话描述需求即可由 AI 生成网页应用与小工具。 | 🇨🇳 直连 |
 | [Atoms（原 MGX）](https://51cgw9.cc/sites/4052.html?utm_source=github&utm_campaign=main) | 由 MetaGPT 团队打造的 AI 应用构建平台（原名 MGX），多个智能体分工协作，用自然语言生成网站与应用。 | 💡 免费+付费 |
-| [Rork](https://51cgw9.cc/sites/4053.html?utm_source=github&utm_campaign=main) | 专注移动端的 AI 应用生成工具，用文字描述即可生成可在手机上预览的原生 App，并支持发布到应用商店。 | 💡 免费+付费 |
+| [Rork](https://51cgw9.cc/sites/4053.html?utm_source=github&utm_campaign=main) | AI 应用生成工具，用文字描述即可生成 iOS（Swift）、Android（Kotlin）原生 App 或网页应用，可在手机上预览并辅助提… | 💡 免费+付费 |
 | [Emergent](https://51cgw9.cc/sites/4054.html?utm_source=github&utm_campaign=main) | 用 AI 智能体生成全栈 Web 与移动应用的平台，可从对话直接得到带后端和部署的可用产品。 | 💡 免费+付费 |
 | [Dyad](https://51cgw9.cc/sites/4055.html?utm_source=github&utm_campaign=main) | 免费开源、在本地运行的 AI 应用构建器，可接入自己的模型 API Key，被视为 Lovable、Bolt 的本地替代。 | 💡 免费+付费 |
 | [Anything](https://51cgw9.cc/sites/4056.html?utm_source=github&utm_campaign=main) | 原 Create.xyz 演变而来的 AI 应用生成平台，用文字描述即可生成带数据库与支付的网站和移动应用。 | 💡 免费+付费 |
@@ -457,6 +457,64 @@
 | [Avoma](https://51cgw9.cc/sites/4237.html?utm_source=github&utm_campaign=main) | 面向销售与客户团队的 AI 会议平台，提供会议记录、预约排期和对话分析教练。 | — |
 | [Jamie](https://51cgw9.cc/sites/4238.html?utm_source=github&utm_campaign=main) | 无需机器人入会的 AI 会议纪要工具，在本地录音后生成摘要与待办，适用于线上和线下会议。 | 💡 免费+付费 |
 | [Tactiq](https://51cgw9.cc/sites/4239.html?utm_source=github&utm_campaign=main) | 以浏览器插件形式工作的会议转写工具，可在 Google Meet、Zoom、Teams 中实时转写并生成 AI 摘要。 | 💡 免费+付费 |
+| [Ona](https://51cgw9.cc/sites/4535.html?utm_source=github&utm_campaign=main) | 由 Gitpod 更名而来的软件开发平台，在云端标准化开发环境中运行可并行的后台编程智能体，面向工程团队。 | — |
+| [Google Antigravity](https://51cgw9.cc/sites/4536.html?utm_source=github&utm_campaign=main) | Google 推出的以智能体为核心的 AI 开发环境，可让 Gemini 等模型在编辑器、终端和浏览器中规划并执行编码任务。 | 🌐 需代理 💡 免费+付费 |
+| [aiXcoder](https://51cgw9.cc/sites/4537.html?utm_source=github&utm_campaign=main) | 国内代码大模型与智能编程助手，支持代码补全、代码生成，并提供面向企业的私有化部署方案。 | 🇨🇳 直连 |
+| [Tabby](https://51cgw9.cc/sites/4538.html?utm_source=github&utm_campaign=main) | 开源、可自托管的 AI 编程助手，部署在自己的服务器或 GPU 上后，为 VS Code、JetBrains 等编辑器提供代码补全和对话。 | 💡 免费+付费 |
+| [Gemini Code Assist](https://51cgw9.cc/sites/4539.html?utm_source=github&utm_campaign=main) | Google 基于 Gemini 模型的 AI 编程助手，以插件形式在 VS Code、JetBrains IDE 中提供代码补全、生成与对… | 🌐 需代理 💡 免费+付费 |
+| [Slite](https://51cgw9.cc/sites/4559.html?utm_source=github&utm_campaign=main) | 团队知识库工具，用 AI 整理和维护文档，成员可直接提问获取答案，并能发现过时内容。 | 💡 免费+付费 |
+| [Tettra](https://51cgw9.cc/sites/4560.html?utm_source=github&utm_campaign=main) | 企业内部知识库与问答工具，可接入 Slack 回答员工的重复问题，并帮助维护知识文档。 | — |
+| [腾讯乐享](https://51cgw9.cc/sites/4561.html?utm_source=github&utm_campaign=main) | 腾讯旗下的企业知识管理平台，提供 AI 知识库、内部培训考试和社区问答，可与企业微信打通。 | 🇨🇳 直连 💡 免费+付费 |
+| [Dust](https://51cgw9.cc/sites/4562.html?utm_source=github&utm_campaign=main) | 面向企业的 AI 智能体平台，可连接公司文档与工具，搭建员工共同使用的定制智能体，支持多家模型。 | 💰 付费 |
+| [Lumo](https://51cgw9.cc/sites/4567.html?utm_source=github&utm_campaign=main) | Proton 推出的注重隐私的 AI 助手，官方称不记录对话、不用对话训练模型，聊天记录加密保存。 | 💡 免费+付费 |
+| [SuperCLUE](https://51cgw9.cc/sites/4568.html?utm_source=github&utm_campaign=main) | 中文通用大模型综合性测评基准，定期发布国内外大模型在中文任务上的测评榜单与报告。 | 🇨🇳 直连 🆓 免费 |
+| [OpenCompass 司南](https://51cgw9.cc/sites/4569.html?utm_source=github&utm_campaign=main) | 上海人工智能实验室推出的大模型开源评测体系，提供评测工具和多维度模型能力排行榜。 | 🇨🇳 直连 🆓 免费 |
+| [Epoch AI](https://51cgw9.cc/sites/4570.html?utm_source=github&utm_campaign=main) | 研究 AI 发展趋势的独立研究机构，公开模型训练算力、数据集和基准测试等数据库与研究报告。 | 🆓 免费 |
+| [LiveBench](https://51cgw9.cc/sites/4571.html?utm_source=github&utm_campaign=main) | 定期更新题目以避免数据污染的大模型评测基准，按推理、编程、数学等类别公布模型排行榜。 | 🆓 免费 |
+| [讯飞开放平台](https://51cgw9.cc/sites/4572.html?utm_source=github&utm_campaign=main) | 科大讯飞的 AI 开放平台，提供星火大模型 API 以及语音识别、语音合成、文字识别等能力接入。 | 🇨🇳 直连 💡 免费+付费 |
+| [商汤日日新开放平台](https://51cgw9.cc/sites/4573.html?utm_source=github&utm_campaign=main) | 商汤科技「日日新 SenseNova」大模型的 API 服务平台，提供对话、多模态等模型调用和控制台管理。 | 🇨🇳 直连 |
+| [零一万物开放平台](https://51cgw9.cc/sites/4574.html?utm_source=github&utm_campaign=main) | 零一万物的大模型开放平台，提供 Yi 系列模型的 API 调用以及密钥与用量管理。 | 🇨🇳 直连 |
+| [无问芯穹](https://51cgw9.cc/sites/4575.html?utm_source=github&utm_campaign=main) | 国内 AI 基础设施服务商，提供异构算力调度与大模型推理服务平台，面向企业和开发者。 | 🇨🇳 直连 💰 付费 |
+| [PPIO 派欧云](https://51cgw9.cc/sites/4576.html?utm_source=github&utm_campaign=main) | 国内独立的分布式云服务商，提供大模型 API、GPU 容器和智能体沙箱等算力服务。 | 🇨🇳 直连 💰 付费 |
+| [NVIDIA Build](https://51cgw9.cc/sites/4642.html?utm_source=github&utm_campaign=main) | 英伟达的模型体验与 API 平台，可在线试用并调用以 NIM 微服务形式提供的各类开源与合作模型。 | 💡 免费+付费 |
+| [Voyage AI](https://51cgw9.cc/sites/4643.html?utm_source=github&utm_campaign=main) | 专注向量嵌入（Embedding）与重排序模型的 API 服务商，常用于 RAG 检索，现为 MongoDB 旗下公司。 | 💡 免费+付费 |
+| [Perplexity Sonar API](https://51cgw9.cc/sites/4644.html?utm_source=github&utm_campaign=main) | Perplexity 的开发者 API 文档站，提供带实时联网搜索和引用来源的 Sonar 模型及搜索接口说明。 | 💰 付费 |
+| [Reka](https://51cgw9.cc/sites/4645.html?utm_source=github&utm_campaign=main) | AI 公司 Reka 的官网，提供原生多模态模型，擅长视频、图像、音频与文本理解，面向企业与开发者。 | — |
+| [Google Flow](https://51cgw9.cc/sites/4679.html?utm_source=github&utm_campaign=main) | Google 推出的 AI 影片创作工具，基于 Veo 视频模型等生成视频镜头，并可组合编排成片。 | 🌐 需代理 |
+| [Presentations.AI](https://51cgw9.cc/sites/4680.html?utm_source=github&utm_campaign=main) | AI 演示文稿生成工具，输入主题即可生成带配图与排版的幻灯片，支持品牌样式并可导出 PowerPoint。 | 💡 免费+付费 |
+| [博思AIPPT](https://51cgw9.cc/sites/4681.html?utm_source=github&utm_campaign=main) | 国内 AI 生成 PPT 工具，可输入主题或上传文档生成演示文稿，并在线编辑美化。 | 🇨🇳 直连 💡 免费+付费 |
+| [MindShow](https://51cgw9.cc/sites/4682.html?utm_source=github&utm_campaign=main) | 国内 AI 演示文稿工具，可输入主题或 Markdown 大纲快速生成幻灯片，并支持在线演示。 | 🇨🇳 直连 💡 免费+付费 |
+| [iSlide](https://51cgw9.cc/sites/4683.html?utm_source=github&utm_campaign=main) | 知名 PPT 插件与模板平台，提供一键排版、图表与图标库，并支持 AI 生成 PPT。 | 🇨🇳 直连 💡 免费+付费 |
+| [Typecast](https://51cgw9.cc/sites/4684.html?utm_source=github&utm_campaign=main) | 韩国 Neosapience 推出的 AI 配音平台，提供可表达情绪的虚拟声音角色，可用于视频和有声内容。 | 💡 免费+付费 |
+| [讯飞配音](https://51cgw9.cc/sites/4685.html?utm_source=github&utm_campaign=main) | 科大讯飞旗下的配音与语音合成平台（讯飞智作），提供 AI 主播音色和真人配音服务。 | 🇨🇳 直连 💡 免费+付费 |
+| [Zencoder](https://51cgw9.cc/sites/4886.html?utm_source=github&utm_campaign=main) | AI 编程智能体平台，提供 IDE 插件，可结合代码库上下文生成代码、编写测试并修复问题。 | — |
+| [Refact.ai](https://51cgw9.cc/sites/4887.html?utm_source=github&utm_campaign=main) | 开源的 AI 编程智能体，提供 IDE 插件，可在云端或自托管部署下完成编码任务。 | — |
+| [PearAI](https://51cgw9.cc/sites/4888.html?utm_source=github&utm_campaign=main) | 基于 VS Code 的开源 AI 代码编辑器，集成对话、代码生成和智能体等 AI 编程功能。 | — |
+| [Remini](https://51cgw9.cc/sites/4907.html?utm_source=github&utm_campaign=main) | AI 照片与视频画质增强工具，可修复模糊、老旧照片，提升人像清晰度。 | 💡 免费+付费 |
+| [Cutout.Pro](https://51cgw9.cc/sites/4908.html?utm_source=github&utm_campaign=main) | AI 图片编辑与视频生成平台，提供抠图去背景、照片增强、老照片上色和证件照等功能。 | 💡 免费+付费 |
+| [VanceAI](https://51cgw9.cc/sites/4909.html?utm_source=github&utm_campaign=main) | AI 图片处理工具，提供图片放大、降噪、锐化、去背景和老照片修复等功能。 | 💡 免费+付费 |
+| [Upscale.media](https://51cgw9.cc/sites/4910.html?utm_source=github&utm_campaign=main) | 在线 AI 图片放大工具，可把图片放大并提升清晰度，支持批量处理与 API。 | 💡 免费+付费 |
+| [Evoto](https://51cgw9.cc/sites/4911.html?utm_source=github&utm_campaign=main) | 面向摄影师的 AI 人像修图软件，支持磨皮、调色、背景处理和批量修图。 | — |
+| [AMiner](https://51cgw9.cc/sites/4912.html?utm_source=github&utm_campaign=main) | 源自清华大学的科技情报挖掘平台，提供论文检索、学者画像和 AI 辅助的学术问答。 | 🇨🇳 直连 |
+| [alphaXiv](https://51cgw9.cc/sites/4913.html?utm_source=github&utm_campaign=main) | 围绕 arXiv 论文的讨论与阅读平台，可在论文上逐段评论，并用 AI 辅助理解论文。 | — |
+| [Keenious](https://51cgw9.cc/sites/4914.html?utm_source=github&utm_campaign=main) | 根据用户正在写的文本推荐相关学术文献的研究工具，提供网页版和文档插件。 | 💡 免费+付费 |
+| [Inciteful](https://51cgw9.cc/sites/4915.html?utm_source=github&utm_campaign=main) | 基于引文网络的免费文献发现工具，输入论文即可构建引用关系图并找出重要相关论文。 | 🆓 免费 |
+| [Moonlight](https://51cgw9.cc/sites/4916.html?utm_source=github&utm_campaign=main) | AI 论文阅读助手，在阅读论文时可解释段落、翻译和提问，帮助快速理解论文内容。 | 💡 免费+付费 |
+| [Anyword](https://51cgw9.cc/sites/4917.html?utm_source=github&utm_campaign=main) | 面向营销团队的 AI 文案平台，可生成广告、落地页和社媒文案，并预测文案表现。 | 💰 付费 |
+| [Hypotenuse AI](https://51cgw9.cc/sites/4918.html?utm_source=github&utm_campaign=main) | 面向电商的 AI 商品信息管理（PXM）与内容平台，可批量生成和优化商品描述等商品内容。 | 💰 付费 |
+| [Simplified](https://51cgw9.cc/sites/4919.html?utm_source=github&utm_campaign=main) | 集 AI 写作、设计、视频和社媒排期于一体的营销工具平台。 | 💡 免费+付费 |
+| [Brandmark](https://51cgw9.cc/sites/4920.html?utm_source=github&utm_campaign=main) | AI Logo 设计工具，根据品牌名称和关键词生成 Logo 方案，并提供品牌素材下载。 | 💰 付费 |
+| [Designs.ai](https://51cgw9.cc/sites/4921.html?utm_source=github&utm_campaign=main) | 在线 AI 创意套件，提供 Logo 生成、视频制作、图形设计和配音等工具。 | — |
+| [Eklipse](https://51cgw9.cc/sites/4922.html?utm_source=github&utm_campaign=main) | 面向游戏主播的 AI 剪辑工具，可从直播录像中自动截取精彩片段并转成短视频。 | 💡 免费+付费 |
+| [quso.ai](https://51cgw9.cc/sites/4923.html?utm_source=github&utm_campaign=main) | 原 vidyo.ai，提供 AI 视频切片、字幕和社媒发布排期等功能的社交媒体工具。 | 💡 免费+付费 |
+| [当贝AI](https://51cgw9.cc/sites/4942.html?utm_source=github&utm_campaign=main) | 当贝推出的 AI 助手网站，提供对话问答、联网搜索和写作辅助等功能。 | 🇨🇳 直连 |
+| [ChatLLM](https://51cgw9.cc/sites/4964.html?utm_source=github&utm_campaign=main) | Abacus.AI 推出的多模型 AI 助手，集成多家大模型与图像、视频生成等功能。 | 💰 付费 |
+| [Mammouth](https://51cgw9.cc/sites/4965.html?utm_source=github&utm_campaign=main) | 订阅制的多模型 AI 平台，一个账号即可使用多家大模型和图像模型。 | 💰 付费 |
+| [Argil](https://51cgw9.cc/sites/5026.html?utm_source=github&utm_campaign=main) | AI 分身视频工具，可用自己的形象和声音生成社交媒体短视频。 | 💰 付费 |
+| [Arcads](https://51cgw9.cc/sites/5027.html?utm_source=github&utm_campaign=main) | 用 AI 演员生成用户口播式广告视频的工具，面向效果广告投放。 | 💰 付费 |
+| [Kapa.ai](https://51cgw9.cc/sites/5028.html?utm_source=github&utm_campaign=main) | 把技术文档和社区内容变成 AI 问答助手的平台，面向开发者产品团队。 | 💰 付费 |
+| [Chatbase](https://51cgw9.cc/sites/5029.html?utm_source=github&utm_campaign=main) | 用自有数据训练 AI 客服智能体的平台，可嵌入网站并接入多个渠道。 | 💡 免费+付费 |
+| [CustomGPT.ai](https://51cgw9.cc/sites/5030.html?utm_source=github&utm_campaign=main) | 基于企业内容构建 AI 问答助手的平台，回答附带引用来源。 | 💰 付费 |
 
 ## 办公效率
 
@@ -501,7 +559,7 @@
 | [石墨文档](https://51cgw9.cc/sites/582.html?utm_source=github&utm_campaign=main) | 国产在线协作文档与表格平台，常见用途包括多人实时编辑文档、团队共享表格等。 | — |
 | [腾讯文档](https://51cgw9.cc/sites/583.html?utm_source=github&utm_campaign=main) | 腾讯推出的在线文档，可与微信、QQ账号配合使用，常见用途包括多人在线编辑、收集表统计信息等。 | — |
 | [金山文档](https://51cgw9.cc/sites/584.html?utm_source=github&utm_campaign=main) | WPS 旗下在线协作办公平台，常见用途包括在线编辑Office格式文档、团队共享文件等。 | — |
-| [Typora](https://51cgw9.cc/sites/585.html?utm_source=github&utm_campaign=main) | 所见即所得的Markdown编辑器，常见用途包括撰写Markdown文档、写技术博客等。 | — |
+| [Typora](https://51cgw9.cc/sites/585.html?utm_source=github&utm_campaign=main) | 所见即所得的Markdown编辑器，常见用途包括撰写Markdown文档、写技术博客等。 | 💰 付费 |
 | [Logseq](https://51cgw9.cc/sites/586.html?utm_source=github&utm_campaign=main) | 开源、本地优先的大纲式双链笔记应用，常见用途包括每日日志、构建个人知识库等。 | — |
 | [Anytype](https://51cgw9.cc/sites/587.html?utm_source=github&utm_campaign=main) | 本地优先、端到端加密的知识管理与笔记应用，常见用途包括搭建个人知识库、私密笔记等。 | — |
 | [Craft](https://51cgw9.cc/sites/588.html?utm_source=github&utm_campaign=main) | 以排版美观著称的文档与笔记应用，Apple 平台体验较好，常见用途包括撰写结构化文档、分享网页版文档等。 | — |
@@ -742,7 +800,66 @@
 | [Chanty](https://51cgw9.cc/sites/4184.html?utm_source=github&utm_campaign=main) | 团队聊天与协作工具，内置任务看板、音视频通话，界面简洁易上手。 | 💡 免费+付费 |
 | [Twist](https://51cgw9.cc/sites/4185.html?utm_source=github&utm_campaign=main) | Todoist 团队 Doist 打造的异步沟通工具，以话题线程代替实时聊天，减少打扰。 | 💡 免费+付费 |
 | [HEY](https://51cgw9.cc/sites/4232.html?utm_source=github&utm_campaign=main) | 37signals 推出的付费邮箱与日历服务，以「筛选新发件人」等独特收件规则减少垃圾邮件干扰。 | 💰 付费 |
-| [GMX](https://51cgw9.cc/sites/4233.html?utm_source=github&utm_campaign=main) | 德国老牌免费邮箱服务，提供网页邮箱、手机 App 和大容量附件发送。 | 🆓 免费 |
+| [GMX](https://51cgw9.cc/sites/4233.html?utm_source=github&utm_campaign=main) | 德国老牌邮箱品牌 GMX 的国际版（gmx.com），免费提供网页邮箱、手机 App、云存储和垃圾邮件过滤。 | 🆓 免费 |
+| [Etherpad](https://51cgw9.cc/sites/4589.html?utm_source=github&utm_campaign=main) | 开源的实时协作文本编辑器，多人可同时编辑同一文档，支持自行部署和插件扩展。 | 🆓 免费 |
+| [钉钉文档](https://51cgw9.cc/sites/4590.html?utm_source=github&utm_campaign=main) | 钉钉推出的企业级在线文档服务，支持文档、表格、脑图等多人实时协作，并与钉钉组织架构打通。 | 🇨🇳 直连 💡 免费+付费 |
+| [Microsoft Loop](https://51cgw9.cc/sites/4591.html?utm_source=github&utm_campaign=main) | 微软推出的协作工作区，用可在 Teams、Outlook 中同步更新的 Loop 组件组织页面、清单和表格。 | 💡 免费+付费 |
+| [Graphviz](https://51cgw9.cc/sites/4626.html?utm_source=github&utm_campaign=main) | 开源图形可视化软件，用 DOT 文本语言描述节点和连线，自动排版生成流程图和结构图。 | 🆓 免费 |
+| [yEd](https://51cgw9.cc/sites/4627.html?utm_source=github&utm_campaign=main) | yWorks 推出的免费桌面图表编辑器，擅长自动布局，可绘制流程图、组织架构图和 UML 图。 | 🆓 免费 |
+| [Eraser](https://51cgw9.cc/sites/4628.html?utm_source=github&utm_campaign=main) | 面向工程团队的 AI 画图与技术文档工具，可用自然语言或代码生成架构图、流程图和时序图。 | 💡 免费+付费 |
+| [SmartDraw](https://51cgw9.cc/sites/4629.html?utm_source=github&utm_campaign=main) | 在线图表绘制软件，提供流程图、组织架构图和户型平面图等大量模板，可与 Microsoft 365、Google Workspace 集成。 | 💰 付费 |
+| [Cacoo](https://51cgw9.cc/sites/4630.html?utm_source=github&utm_campaign=main) | 日本 Nulab 公司的在线协作绘图工具，支持流程图、线框图和网络图的多人实时编辑。 | 💡 免费+付费 |
+| [迅捷画图](https://51cgw9.cc/sites/4631.html?utm_source=github&utm_campaign=main) | 国内在线作图网站，可在线绘制流程图、思维导图、组织结构图等，并提供模板库。 | 🇨🇳 直连 💡 免费+付费 |
+| [印象笔记](https://51cgw9.cc/sites/4653.html?utm_source=github&utm_campaign=main) | Evernote 在中国独立运营的笔记服务，支持网页剪藏、多端同步和 AI 辅助整理内容。 | 🇨🇳 直连 💡 免费+付费 |
+| [Google Keep](https://51cgw9.cc/sites/4654.html?utm_source=github&utm_campaign=main) | Google 的便签与备忘录应用，可记录文字、清单、语音和图片，设置提醒并随 Google 账号同步。 | 🌐 需代理 🆓 免费 |
+| [OneNote](https://51cgw9.cc/sites/4655.html?utm_source=github&utm_campaign=main) | 微软的数字笔记本应用，按笔记本、分区和页面组织内容，支持手写、录音并通过微软账号多端同步。 | 🆓 免费 |
+| [为知笔记](https://51cgw9.cc/sites/4656.html?utm_source=github&utm_campaign=main) | 国产老牌云笔记软件，支持网页收藏、Markdown 写作、多端同步和团队协作共享。 | 🇨🇳 直连 |
+| [小鱼易连](https://51cgw9.cc/sites/4666.html?utm_source=github&utm_campaign=main) | 国内云视频会议服务商，提供云会议软件与会议终端，常用于政府和企业的远程会议。 | 🇨🇳 直连 💰 付费 |
+| [GoTo Meeting](https://51cgw9.cc/sites/4667.html?utm_source=github&utm_campaign=main) | GoTo（原 LogMeIn）旗下的在线会议软件，支持视频会议、屏幕共享和会议录制。 | 💰 付费 |
+| [BigBlueButton](https://51cgw9.cc/sites/4668.html?utm_source=github&utm_campaign=main) | 开源的在线课堂与网络会议系统，提供白板、分组讨论和录制，可与 Moodle 等学习平台集成并自行部署。 | 🆓 免费 |
+| [Livestorm](https://51cgw9.cc/sites/4669.html?utm_source=github&utm_campaign=main) | 基于浏览器的网络研讨会平台，支持直播、录播和按需活动，提供报名页与参会数据分析。 | 💰 付费 |
+| [F-Droid](https://51cgw9.cc/sites/4670.html?utm_source=github&utm_campaign=main) | 只收录自由开源软件的安卓应用商店，应用由源代码构建，并标注广告、追踪等「反特性」。 | 🆓 免费 |
+| [Chocolatey](https://51cgw9.cc/sites/4671.html?utm_source=github&utm_campaign=main) | Windows 平台的软件包管理器，可用命令行批量安装、升级常用软件，另有面向企业的商业版。 | 💡 免费+付费 |
+| [Scoop](https://51cgw9.cc/sites/4672.html?utm_source=github&utm_campaign=main) | 面向 Windows 的命令行软件安装工具，默认安装到用户目录、无需管理员权限，适合开发者配置环境。 | 🆓 免费 |
+| [Uptodown](https://51cgw9.cc/sites/4673.html?utm_source=github&utm_campaign=main) | 西班牙的应用下载平台，提供安卓 APK 及 Windows、Mac 软件下载，并保留应用的历史版本。 | 🆓 免费 |
+| [APKMirror](https://51cgw9.cc/sites/4674.html?utm_source=github&utm_campaign=main) | 知名安卓 APK 下载站，只上传经过签名校验的免费应用，可下载应用的各个历史版本。 | 🆓 免费 |
+| [Google Play](https://51cgw9.cc/sites/4675.html?utm_source=github&utm_campaign=main) | Google 官方的安卓应用商店，可浏览和安装应用、游戏与电子书，在中国大陆无法直接使用。 | 🌐 需代理 🆓 免费 |
+| [MacDown](https://51cgw9.cc/sites/4930.html?utm_source=github&utm_campaign=main) | macOS 上的开源 Markdown 编辑器，左侧编辑、右侧实时预览，支持代码高亮。 | 🆓 免费 |
+| [MWeb](https://51cgw9.cc/sites/4931.html?utm_source=github&utm_campaign=main) | 面向 Apple 平台的 Markdown 写作与笔记软件，支持文档库管理和发布到博客平台。 | 💰 付费 |
+| [小书匠](https://51cgw9.cc/sites/4932.html?utm_source=github&utm_campaign=main) | 国内 Markdown 编辑器，支持多种主题、数学公式和图表，可同步到第三方存储。 | 🇨🇳 直连 |
+| [Klaxoon](https://51cgw9.cc/sites/4944.html?utm_source=github&utm_campaign=main) | 面向团队的协作白板与会议工具（现属 Wrike），支持头脑风暴、工作坊和项目协作。 | — |
+| [Stormboard](https://51cgw9.cc/sites/4945.html?utm_source=github&utm_campaign=main) | 在线协作白板工具，提供便签、模板和报告功能，适合头脑风暴和项目规划。 | 💡 免费+付费 |
+| [Milanote](https://51cgw9.cc/sites/4946.html?utm_source=github&utm_campaign=main) | 面向创意工作的可视化看板工具，可把笔记、图片、链接和任务整理在画布上。 | 💡 免费+付费 |
+| [Ziteboard](https://51cgw9.cc/sites/4947.html?utm_source=github&utm_campaign=main) | 轻量的在线协作白板，可实时共享和绘图，常用于远程教学与讲解。 | 💡 免费+付费 |
+| [MindMup](https://51cgw9.cc/sites/4951.html?utm_source=github&utm_campaign=main) | 在线思维导图工具，免费版可创建和分享导图，可保存到 Google Drive。 | 💡 免费+付费 |
+| [Mindomo](https://51cgw9.cc/sites/4952.html?utm_source=github&utm_campaign=main) | 在线思维导图与概念图工具，支持协作编辑、演示模式和多种导出格式。 | 💡 免费+付费 |
+| [Freeplane](https://51cgw9.cc/sites/4953.html?utm_source=github&utm_campaign=main) | 源自 FreeMind 的开源桌面思维导图软件，支持节点格式化、公式和脚本扩展。 | 🆓 免费 |
+| [Markmap](https://51cgw9.cc/sites/4954.html?utm_source=github&utm_campaign=main) | 把 Markdown 文本转换成可交互思维导图的开源工具，提供在线试用和编辑器插件。 | 🆓 免费 |
+| [Ayoa](https://51cgw9.cc/sites/4955.html?utm_source=github&utm_campaign=main) | 结合思维导图、白板和任务管理的协作工具，支持 AI 辅助生成导图。 | — |
+| [Google Messages](https://51cgw9.cc/sites/4971.html?utm_source=github&utm_campaign=main) | Google 的安卓短信应用，支持 RCS 富媒体消息，并可在网页端收发手机短信。 | 🌐 需代理 🆓 免费 |
+| [SimpleX Chat](https://51cgw9.cc/sites/4972.html?utm_source=github&utm_campaign=main) | 主打隐私的开源即时通讯工具，不使用手机号或用户 ID 标识用户。 | 🆓 免费 |
+| [Delta Chat](https://51cgw9.cc/sites/4973.html?utm_source=github&utm_campaign=main) | 开源的即时通讯应用，基于电子邮件协议传输并支持端到端加密。 | 🆓 免费 |
+| [Briar](https://51cgw9.cc/sites/4974.html?utm_source=github&utm_campaign=main) | 开源的点对点加密通讯应用，可通过 Tor、Wi-Fi 或蓝牙在无网络环境下通讯。 | 🆓 免费 |
+| [Jami](https://51cgw9.cc/sites/4975.html?utm_source=github&utm_campaign=main) | GNU 项目的开源点对点通讯软件，支持文字聊天、语音和视频通话，无需中心服务器。 | 🆓 免费 |
+| [Mailbox.org](https://51cgw9.cc/sites/4983.html?utm_source=github&utm_campaign=main) | 德国的付费隐私邮箱服务，提供邮箱、日历、云盘和办公套件。 | 💰 付费 |
+| [Posteo](https://51cgw9.cc/sites/4984.html?utm_source=github&utm_campaign=main) | 德国的付费隐私邮箱服务，以匿名注册、加密和绿色能源运营为特点。 | 💰 付费 |
+| [StartMail](https://51cgw9.cc/sites/4985.html?utm_source=github&utm_campaign=main) | 主打隐私的付费邮箱服务，支持加密邮件和一次性别名地址。 | 💰 付费 |
+| [Spark](https://51cgw9.cc/sites/4986.html?utm_source=github&utm_campaign=main) | Readdle 出品的邮件客户端，支持智能收件箱、团队协作和 AI 写邮件。 | 💡 免费+付费 |
+| [Mailfence](https://51cgw9.cc/sites/4987.html?utm_source=github&utm_campaign=main) | 比利时的加密邮箱服务，提供端到端加密邮件、日历和文档存储。 | 💡 免费+付费 |
+| [AOL Mail](https://51cgw9.cc/sites/4988.html?utm_source=github&utm_campaign=main) | 美国老牌免费邮箱服务，提供网页邮箱与手机 App。 | 🆓 免费 |
+| [麦客CRM](https://51cgw9.cc/sites/4989.html?utm_source=github&utm_campaign=main) | 国内信息收集与客户管理工具，可制作报名、调查等在线表单，并管理收集到的联系人和营销触达。 | 🇨🇳 直连 💡 免费+付费 |
+| [番茄表单](https://51cgw9.cc/sites/4990.html?utm_source=github&utm_campaign=main) | 国内在线表单工具，提供模板，可制作报名、问卷、考试和预约表单。 | 🇨🇳 直连 💡 免费+付费 |
+| [简道云](https://51cgw9.cc/sites/4991.html?utm_source=github&utm_campaign=main) | 帆软旗下的零代码应用搭建平台，可用表单、流程和报表搭建业务管理应用。 | 🇨🇳 直连 💡 免费+付费 |
+| [Formstack](https://51cgw9.cc/sites/4992.html?utm_source=github&utm_campaign=main) | 在线表单与工作流平台，提供表单、文档生成和电子签名功能。 | 💰 付费 |
+| [Paperform](https://51cgw9.cc/sites/4993.html?utm_source=github&utm_campaign=main) | 像编辑文档一样制作表单的在线工具，支持收款、预约和计算字段。 | — |
+| [Cognito Forms](https://51cgw9.cc/sites/4994.html?utm_source=github&utm_campaign=main) | 在线表单构建工具，支持计算字段、条件逻辑和支付，提供免费方案。 | 💡 免费+付费 |
+| [Qualtrics](https://51cgw9.cc/sites/4995.html?utm_source=github&utm_campaign=main) | 企业级体验管理与问卷调研平台，用于客户、员工和市场研究。 | — |
+| [LimeSurvey](https://51cgw9.cc/sites/4996.html?utm_source=github&utm_campaign=main) | 开源在线问卷调查工具，可自行部署，也提供云托管版本。 | 💡 免费+付费 |
+| [PDFescape](https://51cgw9.cc/sites/5031.html?utm_source=github&utm_campaign=main) | 在线 PDF 编辑工具，可在浏览器中填写表单、添加文字和批注。 | 💡 免费+付费 |
+| [PDF2Go](https://51cgw9.cc/sites/5032.html?utm_source=github&utm_campaign=main) | 在线 PDF 工具，提供 PDF 转换、压缩、合并、拆分和编辑等功能。 | 💡 免费+付费 |
+| [Soda PDF](https://51cgw9.cc/sites/5033.html?utm_source=github&utm_campaign=main) | PDF 编辑与转换软件，提供在线版和桌面版，支持电子签名。 | 💡 免费+付费 |
+| [迅捷PDF转换器](https://51cgw9.cc/sites/5034.html?utm_source=github&utm_campaign=main) | 国内 PDF 转换工具，提供 PDF 与 Word、Excel、图片等格式互转和压缩合并。 | 🇨🇳 直连 💡 免费+付费 |
+| [万兴PDF](https://51cgw9.cc/sites/5035.html?utm_source=github&utm_campaign=main) | 万兴科技旗下的 PDF 编辑软件，支持编辑、转换、OCR 识别和 AI 辅助阅读。 | 🇨🇳 直连 💰 付费 |
 
 ## 开发工具
 
@@ -1058,6 +1175,27 @@
 | [青云 QingCloud](https://51cgw9.cc/sites/4108.html?utm_source=github&utm_campaign=main) | 国内企业级云服务商，提供公有云、私有云、混合云及 AI 算力基础设施。 | 🇨🇳 直连 💰 付费 |
 | [联通云](https://51cgw9.cc/sites/4109.html?utm_source=github&utm_campaign=main) | 中国联通旗下的云服务品牌，提供云主机、存储、数据库等产品，主打算网一体和政企服务。 | 🇨🇳 直连 💰 付费 |
 | [又拍云](https://51cgw9.cc/sites/4110.html?utm_source=github&utm_campaign=main) | 国内老牌 CDN 与云存储服务商，提供内容加速、对象存储、音视频处理等服务。 | 🇨🇳 直连 💡 免费+付费 |
+| [CNB 云原生构建](https://51cgw9.cc/sites/4578.html?utm_source=github&utm_campaign=main) | 腾讯推出的云原生开发平台，集代码托管、云端构建流水线、云原生开发环境和制品库于一体。 | 🇨🇳 直连 💡 免费+付费 |
+| [极狐GitLab](https://51cgw9.cc/sites/4579.html?utm_source=github&utm_campaign=main) | GitLab 在中国的合资公司极狐推出的 DevOps 平台，提供代码托管、CI/CD 和私有化部署，适合国内企业。 | 🇨🇳 直连 💡 免费+付费 |
+| [Radicle](https://51cgw9.cc/sites/4580.html?utm_source=github&utm_campaign=main) | 基于 Git 的点对点开源代码协作网络，仓库在节点之间同步，不依赖中心化托管平台。 | 🆓 免费 |
+| [Glot.io](https://51cgw9.cc/sites/4584.html?utm_source=github&utm_campaign=main) | 开源的在线代码运行与分享网站，支持数十种编程语言，代码片段可公开或私密分享，并提供运行 API。 | 🆓 免费 |
+| [Kotlin Playground](https://51cgw9.cc/sites/4585.html?utm_source=github&utm_campaign=main) | Kotlin 官方的在线代码编辑与运行环境，可直接在浏览器中编写、运行和分享 Kotlin 代码。 | 🆓 免费 |
+| [Wandbox](https://51cgw9.cc/sites/4586.html?utm_source=github&utm_campaign=main) | 在线编译运行网站，以 C++ 为主并提供多种编译器版本，适合测试语言特性和不同编译器的差异。 | 🆓 免费 |
+| [DB Fiddle](https://51cgw9.cc/sites/4587.html?utm_source=github&utm_campaign=main) | 在线 SQL 测试工具，可选择 MySQL、PostgreSQL、SQLite 等数据库，建表并执行查询后分享链接。 | 🆓 免费 |
+| [SQL Fiddle](https://51cgw9.cc/sites/4588.html?utm_source=github&utm_campaign=main) | 老牌在线 SQL 编译运行工具，支持多种数据库引擎，可快速搭建表结构并测试查询语句。 | 🆓 免费 |
+| [Ruby China](https://51cgw9.cc/sites/4602.html?utm_source=github&utm_campaign=main) | 国内 Ruby 与 Rails 开发者社区，讨论编程技术、招聘求职和开源项目。 | 🇨🇳 直连 🆓 免费 |
+| [LearnKu](https://51cgw9.cc/sites/4603.html?utm_source=github&utm_campaign=main) | 以 Laravel、PHP、Go、Python 等技术为主的中文编程知识社区，提供文档翻译、教程和问答。 | 🇨🇳 直连 💡 免费+付费 |
+| [Go 语言中文网](https://51cgw9.cc/sites/4604.html?utm_source=github&utm_campaign=main) | Golang 中文社区网站，提供 Go 资讯、教程、文档、问答和开源项目分享。 | 🇨🇳 直连 🆓 免费 |
+| [阿里云开发者社区](https://51cgw9.cc/sites/4605.html?utm_source=github&utm_campaign=main) | 阿里云的开发者社区，汇集云计算、AI、数据库等技术文章、动手实验、课程与问答。 | 🇨🇳 直连 🆓 免费 |
+| [DZone](https://51cgw9.cc/sites/4606.html?utm_source=github&utm_campaign=main) | 英文开发者社区与技术媒体，发布编程、DevOps、云原生、AI 等主题的教程、观点和技术报告。 | 🆓 免费 |
+| [NodeSeek](https://51cgw9.cc/sites/4607.html?utm_source=github&utm_campaign=main) | 中文主机与 VPS 爱好者论坛，交流服务器测评、网络线路、建站运维和商家优惠信息。 | 🆓 免费 |
+| [Neo4j](https://51cgw9.cc/sites/4619.html?utm_source=github&utm_campaign=main) | 老牌图数据库，用节点和关系存储数据，使用 Cypher 查询语言，提供 AuraDB 云服务和社区版。 | 💡 免费+付费 |
+| [CockroachDB](https://51cgw9.cc/sites/4620.html?utm_source=github&utm_campaign=main) | 兼容 PostgreSQL 协议的分布式 SQL 数据库，支持多区域部署和自动容灾，提供云服务与自托管版本。 | 💡 免费+付费 |
+| [Apache Cassandra](https://51cgw9.cc/sites/4621.html?utm_source=github&utm_campaign=main) | Apache 基金会的开源分布式宽列数据库，可线性扩展、无单点故障，适合海量写入场景。 | 🆓 免费 |
+| [InfluxDB](https://51cgw9.cc/sites/4622.html?utm_source=github&utm_campaign=main) | 流行的时序数据库，适合存储监控指标、物联网传感器等按时间写入的数据，提供开源版与云服务。 | 💡 免费+付费 |
+| [Valkey](https://51cgw9.cc/sites/4623.html?utm_source=github&utm_campaign=main) | Linux 基金会托管的开源键值数据库，源自 Redis 许可证变更前的代码分支，兼容 Redis 协议。 | 🆓 免费 |
+| [openGauss](https://51cgw9.cc/sites/4624.html?utm_source=github&utm_campaign=main) | 华为开源的企业级关系型数据库，由 openGauss 社区维护，强调高性能、高可用和安全。 | 🇨🇳 直连 🆓 免费 |
+| [SurrealDB](https://51cgw9.cc/sites/4625.html?utm_source=github&utm_campaign=main) | 多模型数据库，支持文档、图、关系和向量等数据模型，近来定位为 AI 智能体的上下文与记忆层。 | 💡 免费+付费 |
 
 ## 设计创意
 
@@ -1096,7 +1234,7 @@
 | [Rive](https://51cgw9.cc/sites/569.html?utm_source=github&utm_campaign=main) | 制作可交互矢量动画的设计与运行时工具，常见用途包括制作App交互动画、设计游戏界面动效等。 | — |
 | [Coolors](https://51cgw9.cc/sites/570.html?utm_source=github&utm_campaign=main) | 快速生成和浏览配色方案的在线工具，常见用途包括生成品牌配色、从图片提取颜色等。 | — |
 | [Adobe Color](https://51cgw9.cc/sites/571.html?utm_source=github&utm_campaign=main) | Adobe 提供的在线色轮与配色工具，支持对比度检查，常见用途包括按色彩规则生成配色、检查文字对比度等。 | — |
-| [Remove.bg](https://51cgw9.cc/sites/572.html?utm_source=github&utm_campaign=main) | 自动去除图片背景的在线工具，常见用途包括商品图去背景、证件照换底等。 | 💡 免费+付费 |
+| [Remove.bg](https://51cgw9.cc/sites/572.html?utm_source=github&utm_campaign=main) | Canva 旗下的自动去除图片背景在线工具；官网公告独立网站自 2026 年 12 月 1 日起不再提供，抠图功能迁入 Canva。免费仅可… | 💡 免费+付费 |
 | [Photoroom](https://51cgw9.cc/sites/573.html?utm_source=github&utm_campaign=main) | 面向电商的AI修图工具，可去背景并生成商品场景图，常见用途包括制作商品主图、批量去背景等。 | 💡 免费+付费 |
 | [Clipdrop](https://51cgw9.cc/sites/574.html?utm_source=github&utm_campaign=main) | 提供去背景、清除物体、放大等AI图片处理功能的工具集，常见用途包括清除照片中多余物体、提升图片分辨率等。 | 💡 免费+付费 |
 | [TinyPNG](https://51cgw9.cc/sites/575.html?utm_source=github&utm_campaign=main) | 在线压缩PNG、JPEG和WebP图片的工具，常见用途包括压缩网页图片、减小上传文件体积等。 | — |
@@ -1261,6 +1399,39 @@
 | [Bensound](https://51cgw9.cc/sites/4229.html?utm_source=github&utm_campaign=main) | 免版税配乐库，提供多种风格的视频背景音乐，免费使用需署名，商用授权需付费。 | 💡 免费+付费 |
 | [Videezy](https://51cgw9.cc/sites/4230.html?utm_source=github&utm_campaign=main) | 免费与付费视频素材库，提供高清和 4K 实拍片段及动态模板，免费素材多需署名。 | 💡 免费+付费 |
 | [ccMixter](https://51cgw9.cc/sites/4231.html?utm_source=github&utm_campaign=main) | 基于知识共享（CC）许可的音乐社区，可下载免费人声、伴奏和混音作品用于创作。 | 🆓 免费 |
+| [Pixian.AI](https://51cgw9.cc/sites/4563.html?utm_source=github&utm_campaign=main) | 在线 AI 抠图工具，无需注册即可上传图片去除背景，免费版限制分辨率，另提供 API。 | 💡 免费+付费 |
+| [PhotoScissors](https://51cgw9.cc/sites/4564.html?utm_source=github&utm_campaign=main) | 在线自动去背景工具，上传照片即可抠出主体，也可替换为纯色或其他背景，另有桌面版。 | 💡 免费+付费 |
+| [BgSub](https://51cgw9.cc/sites/4565.html?utm_source=github&utm_campaign=main) | 在浏览器本地运行的去背景工具，图片无需上传服务器即可移除或替换背景，并可调整色彩效果。 | 🆓 免费 |
+| [withoutBG](https://51cgw9.cc/sites/4566.html?utm_source=github&utm_campaign=main) | 提供背景移除 API 和开源模型的工具，可在线处理，也可自行部署模型批量抠图。 | 💡 免费+付费 |
+| [ISO Republic](https://51cgw9.cc/sites/4632.html?utm_source=github&utm_campaign=main) | 提供免费高清照片和短视频素材的图库，可用于个人和商业项目。 | 🆓 免费 |
+| [Foodiesfeed](https://51cgw9.cc/sites/4633.html?utm_source=github&utm_campaign=main) | 专注美食题材的免费图库，提供大量餐饮和食材照片，适合餐厅宣传和美食内容创作。 | 🆓 免费 |
+| [Negative Space](https://51cgw9.cc/sites/4634.html?utm_source=github&utm_campaign=main) | 免费免版税图库，提供科技、商务、自然等题材的高分辨率照片，可用于个人和商业项目。 | 🆓 免费 |
+| [NASA Image and Video Library](https://51cgw9.cc/sites/4635.html?utm_source=github&utm_campaign=main) | NASA 官方图片与视频库，可搜索下载航天、天文和地球观测影像，适合科普与设计配图。 | 🆓 免费 |
+| [OfficePLUS](https://51cgw9.cc/sites/4895.html?utm_source=github&utm_campaign=main) | 微软 Office 官方的中文模板站，提供 PPT、Word、Excel 模板和图表素材下载。 | 🇨🇳 直连 🆓 免费 |
+| [第一PPT](https://51cgw9.cc/sites/4896.html?utm_source=github&utm_campaign=main) | PPT 模板与素材下载站，提供各类主题 PPT 模板、背景图和课件资源。 | 🇨🇳 直连 🆓 免费 |
+| [包图网](https://51cgw9.cc/sites/4897.html?utm_source=github&utm_campaign=main) | 商用设计素材与模板平台，提供海报、电商、视频和 PPT 等模板，会员可下载。 | 🇨🇳 直连 💡 免费+付费 |
+| [熊猫办公](https://51cgw9.cc/sites/4898.html?utm_source=github&utm_campaign=main) | 办公模板下载网站，提供 PPT、Word、Excel 模板以及音效等素材。 | 🇨🇳 直连 💡 免费+付费 |
+| [Envato Elements](https://51cgw9.cc/sites/4899.html?utm_source=github&utm_campaign=main) | 订阅制创意素材库，提供视频模板、图形模板、字体、照片和音乐等素材，订阅期间可无限下载。 | 💰 付费 |
+| [Placeit](https://51cgw9.cc/sites/4900.html?utm_source=github&utm_campaign=main) | Envato 旗下的在线模板工具，可直接在网页上制作样机图、Logo、社媒图和视频。 | 💡 免费+付费 |
+| [PosterMyWall](https://51cgw9.cc/sites/4901.html?utm_source=github&utm_campaign=main) | 在线海报与传单设计工具，提供大量模板，可制作社媒图、传单和视频海报。 | 💡 免费+付费 |
+| [Template.net](https://51cgw9.cc/sites/4902.html?utm_source=github&utm_campaign=main) | 在线模板库，提供文档、表格、海报和简历等各类可编辑模板。 | 💡 免费+付费 |
+| [Uizard](https://51cgw9.cc/sites/4937.html?utm_source=github&utm_campaign=main) | AI 辅助的界面原型设计工具，可从文字描述或手绘草图生成可编辑的 App 和网页原型。 | 💡 免费+付费 |
+| [Justinmind](https://51cgw9.cc/sites/4938.html?utm_source=github&utm_campaign=main) | 网页和移动应用的原型设计工具，可制作可交互的高保真原型。 | 💡 免费+付费 |
+| [Moqups](https://51cgw9.cc/sites/4939.html?utm_source=github&utm_campaign=main) | 在线线框图与原型设计工具，同时提供流程图和白板功能。 | 💡 免费+付费 |
+| [摹客 Mockplus](https://51cgw9.cc/sites/4940.html?utm_source=github&utm_campaign=main) | 国内产品设计协作平台，提供原型设计、UI 设计和设计稿交付协作功能。 | 🇨🇳 直连 💡 免费+付费 |
+| [Motiff](https://51cgw9.cc/sites/4941.html?utm_source=github&utm_campaign=main) | AI 驱动的界面设计工具，可用 AI 生成 UI 界面，并支持协作设计和组件管理。 | — |
+| [Corel Painter](https://51cgw9.cc/sites/4956.html?utm_source=github&utm_campaign=main) | 专业数字绘画软件，以模拟真实画材的笔刷著称，适合插画与概念艺术创作。 | 💰 付费 |
+| [Rebelle](https://51cgw9.cc/sites/4957.html?utm_source=github&utm_campaign=main) | Escape Motions 出品的绘画软件，可模拟真实水彩、油画等颜料的流动与混色效果。 | 💰 付费 |
+| [ArtRage](https://51cgw9.cc/sites/4958.html?utm_source=github&utm_campaign=main) | 模拟真实画材的绘画软件，支持油画、水彩、铅笔等效果，提供桌面和移动版本。 | 💰 付费 |
+| [SketchUp](https://51cgw9.cc/sites/4997.html?utm_source=github&utm_campaign=main) | Trimble 旗下的 3D 建模软件，常用于建筑、室内和景观设计。 | 💡 免费+付费 |
+| [Tinkercad](https://51cgw9.cc/sites/4998.html?utm_source=github&utm_campaign=main) | Autodesk 推出的免费网页 3D 设计工具，适合入门建模、3D 打印和电路设计。 | 🆓 免费 |
+| [Onshape](https://51cgw9.cc/sites/4999.html?utm_source=github&utm_campaign=main) | 云端 CAD 与产品设计平台，可在浏览器中进行三维建模和协作。 | 💡 免费+付费 |
+| [Cascadeur](https://51cgw9.cc/sites/5000.html?utm_source=github&utm_campaign=main) | 基于物理的 3D 角色动画软件，提供 AI 辅助姿态和自动物理修正。 | 💡 免费+付费 |
+| [Plasticity](https://51cgw9.cc/sites/5001.html?utm_source=github&utm_campaign=main) | 面向概念设计师的 3D CAD 建模软件，操作类似多边形建模但输出精确实体。 | 💰 付费 |
+| [Hyper3D Rodin](https://51cgw9.cc/sites/5002.html?utm_source=github&utm_campaign=main) | AI 3D 模型生成工具，可从图片或文字生成 3D 模型。 | — |
+| [字魂](https://51cgw9.cc/sites/5036.html?utm_source=github&utm_campaign=main) | 中文字体设计与授权平台，提供字体下载和商用授权，部分字体可免费使用。 | 🇨🇳 直连 💡 免费+付费 |
+| [Font Library](https://51cgw9.cc/sites/5037.html?utm_source=github&utm_campaign=main) | 收录开源授权字体的字体库，可免费下载并在网页中使用。 | 🆓 免费 |
+| [The League of Moveable Type](https://51cgw9.cc/sites/5038.html?utm_source=github&utm_campaign=main) | 开源字体铸造社，发布一批可免费下载使用的开源授权字体。 | 🆓 免费 |
 
 ## 学习教育
 
@@ -1384,6 +1555,31 @@
 | [Learn X in Y minutes](https://51cgw9.cc/sites/4218.html?utm_source=github&utm_campaign=main) | 用一段带注释的代码快速浏览一门编程语言语法的速查网站，覆盖上百种语言和工具，多数有中文版本。 | 🆓 免费 |
 | [C语言中文网](https://51cgw9.cc/sites/4219.html?utm_source=github&utm_campaign=main) | 国内编程教程网站，提供 C、C++、Java、Python、Linux 等系列教程，部分高级内容需付费。 | 🇨🇳 直连 💡 免费+付费 |
 | [ES6 入门教程（阮一峰）](https://51cgw9.cc/sites/4220.html?utm_source=github&utm_campaign=main) | 阮一峰编写的开源 ECMAScript 6 入门教程，系统介绍 ES6 及后续版本的新语法与特性。 | 🇨🇳 直连 🆓 免费 |
+| [Brainscape](https://51cgw9.cc/sites/4547.html?utm_source=github&utm_campaign=main) | 基于「信心评分」间隔重复算法的在线闪卡平台，可自制或使用他人分享的卡组背单词、记知识点。 | 💡 免费+付费 |
+| [Cram](https://51cgw9.cc/sites/4548.html?utm_source=github&utm_campaign=main) | 老牌在线闪卡网站，可创建记忆卡片，并通过翻卡、记忆游戏等模式背单词和复习知识点。 | 💡 免费+付费 |
+| [Knowt](https://51cgw9.cc/sites/4549.html?utm_source=github&utm_campaign=main) | AI 学习平台，可将笔记、PDF 和视频转为闪卡与练习题，常被当作 Quizlet 的免费替代。 | 💡 免费+付费 |
+| [Mochi](https://51cgw9.cc/sites/4550.html?utm_source=github&utm_campaign=main) | 支持 Markdown 的间隔重复闪卡应用，界面简洁，可离线使用并跨设备同步，适合背单词和整理知识点。 | 💡 免费+付费 |
+| [拓词](https://51cgw9.cc/sites/4551.html?utm_source=github&utm_campaign=main) | 面向中小学生的英语背单词 App，按单词分级体系安排读写、例句和释义训练，帮助掌握发音和拼写。 | 🇨🇳 直连 |
+| [国家开放大学](https://51cgw9.cc/sites/4581.html?utm_source=github&utm_campaign=main) | 教育部直属的国家开放大学官网，提供开放教育招生信息、在线学习平台入口与课程资源。 | 🇨🇳 直连 |
+| [学银在线](https://51cgw9.cc/sites/4582.html?utm_source=github&utm_campaign=main) | 在线开放课程平台，汇集高校慕课，支持学习成果认证与学分积累。 | 🇨🇳 直连 🆓 免费 |
+| [国家智慧教育公共服务平台](https://51cgw9.cc/sites/4583.html?utm_source=github&utm_campaign=main) | 教育部主办的国家智慧教育公共服务平台总入口，汇聚中小学、职业教育、高等教育和大学生就业等子平台。 | 🇨🇳 直连 🆓 免费 |
+| [Snap!](https://51cgw9.cc/sites/4597.html?utm_source=github&utm_campaign=main) | 加州大学伯克利分校开发的免费积木式编程语言，在浏览器中运行，支持自定义积木，常用于入门计算机课程。 | 🆓 免费 |
+| [Kodable](https://51cgw9.cc/sites/4598.html?utm_source=github&utm_campaign=main) | 面向幼儿园到小学五年级的编程启蒙平台，用游戏化课程教授编程、打字和数字技能，主要供学校使用。 | 💡 免费+付费 |
+| [Lightbot](https://51cgw9.cc/sites/4599.html?utm_source=github&utm_campaign=main) | 经典的编程解谜游戏，通过给机器人排列指令点亮方块，帮助孩子理解顺序、循环和函数等概念。 | — |
+| [Mind+](https://51cgw9.cc/sites/4600.html?utm_source=github&utm_campaign=main) | DFRobot 推出的国产青少年编程软件，支持图形化积木与 Python，可连接 Arduino、micro:bit 等硬件。 | 🇨🇳 直连 🆓 免费 |
+| [mBlock 慧编程](https://51cgw9.cc/sites/4601.html?utm_source=github&utm_campaign=main) | 童心制物（Makeblock）推出的编程平台，基于 Scratch 并支持 Python，可控制 mBot 等机器人和硬件。 | — |
+| [Mathpix](https://51cgw9.cc/sites/4959.html?utm_source=github&utm_campaign=main) | 公式与文档识别工具，可把截图、PDF 中的数学公式和表格转换为 LaTeX、Markdown 或 Word。 | 💡 免费+付费 |
+| [Calculator.net](https://51cgw9.cc/sites/4960.html?utm_source=github&utm_campaign=main) | 在线计算器合集，提供数学、财务、健康和单位换算等各类计算器。 | 🆓 免费 |
+| [CodeCogs 公式编辑器](https://51cgw9.cc/sites/4961.html?utm_source=github&utm_campaign=main) | 在线 LaTeX 公式编辑器，可可视化编写数学公式并导出为图片或嵌入代码。 | 🆓 免费 |
+| [数学乐](https://51cgw9.cc/sites/4962.html?utm_source=github&utm_campaign=main) | Math is Fun 的中文版，用通俗图解讲解数学概念，并提供练习和互动工具。 | 🇨🇳 直连 🆓 免费 |
+| [Math is Fun](https://51cgw9.cc/sites/4963.html?utm_source=github&utm_campaign=main) | 用通俗语言和图解讲解数学知识的教育网站，涵盖算术、代数、几何和数据等。 | 🆓 免费 |
+| [Typst](https://51cgw9.cc/sites/4976.html?utm_source=github&utm_campaign=main) | 新一代标记语言排版系统，语法比 LaTeX 简单，提供在线协作编辑器。 | 💡 免费+付费 |
+| [NoteExpress](https://51cgw9.cc/sites/4977.html?utm_source=github&utm_campaign=main) | 国内常用的文献管理软件，支持中文文献检索导入、笔记和 Word 引文插入。 | 🇨🇳 直连 |
+| [Paperpile](https://51cgw9.cc/sites/4978.html?utm_source=github&utm_campaign=main) | 基于浏览器的文献管理工具，与 Google Docs 和 Word 集成，可插入引文。 | 💰 付费 |
+| [Cite This For Me](https://51cgw9.cc/sites/4979.html?utm_source=github&utm_campaign=main) | 在线引文生成器，可按 APA、MLA、Harvard 等格式生成参考文献条目。 | 💡 免费+付费 |
+| [Jenni AI](https://51cgw9.cc/sites/4980.html?utm_source=github&utm_campaign=main) | AI 学术写作助手，提供自动补全、改写和引文插入功能，帮助撰写论文。 | 💡 免费+付费 |
+| [PaperPass](https://51cgw9.cc/sites/4981.html?utm_source=github&utm_campaign=main) | 中文论文查重检测网站，提供论文相似度检测与修改建议。 | 🇨🇳 直连 💰 付费 |
+| [Turnitin](https://51cgw9.cc/sites/4982.html?utm_source=github&utm_campaign=main) | 面向教育机构的学术诚信与相似度检测服务，帮助教师检查作业原创性。 | 💰 付费 |
 
 ## 资讯阅读
 
@@ -1505,6 +1701,38 @@
 | [Ben's Bites](https://51cgw9.cc/sites/3826.html?utm_source=github&utm_campaign=main) | 英文 AI 资讯简报，侧重新工具、产品实践与创业相关动态。 | 💡 免费+付费 |
 | [即刻](https://51cgw9.cc/sites/4040.html?utm_source=github&utm_campaign=main) | 以兴趣圈子为核心的中文社交社区，用户可关注话题、发动态并参与 AI、科技、产品等圈子讨论。 | 🇨🇳 直连 🆓 免费 |
 | [微信公众平台](https://51cgw9.cc/sites/4041.html?utm_source=github&utm_campaign=main) | 腾讯官方的公众号与服务号管理后台，可注册账号、编辑发布图文并查看粉丝和阅读数据。 | 🇨🇳 直连 🆓 免费 |
+| [QQ空间](https://51cgw9.cc/sites/4528.html?utm_source=github&utm_campaign=main) | 腾讯旗下基于 QQ 关系链的社交空间，可发表说说、日志，上传相册并查看好友动态。 | 🇨🇳 直连 🆓 免费 |
+| [百家号](https://51cgw9.cc/sites/4529.html?utm_source=github&utm_campaign=main) | 百度推出的内容创作与分发平台，作者发布的图文、视频可进入百度搜索与百度 App 信息流。 | 🇨🇳 直连 🆓 免费 |
+| [头条号](https://51cgw9.cc/sites/4530.html?utm_source=github&utm_campaign=main) | 今日头条的创作者后台，可发布文章、微头条和视频，并查看推荐、阅读和创作收益数据。 | 🇨🇳 直连 🆓 免费 |
+| [抖音创作者中心](https://51cgw9.cc/sites/4531.html?utm_source=github&utm_campaign=main) | 抖音官方的网页端创作者平台，支持在电脑上上传发布视频、管理作品与评论并查看数据分析。 | 🇨🇳 直连 🆓 免费 |
+| [小红书创作服务平台](https://51cgw9.cc/sites/4532.html?utm_source=github&utm_campaign=main) | 小红书官方的网页端创作后台，可在电脑上发布图文和视频笔记、管理内容并查看笔记数据。 | 🇨🇳 直连 🆓 免费 |
+| [网易号](https://51cgw9.cc/sites/4533.html?utm_source=github&utm_campaign=main) | 网易新闻旗下的自媒体内容平台，创作者可发布文章与视频，内容在网易新闻客户端分发。 | 🇨🇳 直连 🆓 免费 |
+| [9to5Mac](https://51cgw9.cc/sites/4657.html?utm_source=github&utm_campaign=main) | 专注苹果生态的英文科技媒体，报道 iPhone、Mac、iOS 等产品的新闻、爆料、评测和使用技巧。 | 🆓 免费 |
+| [MacRumors](https://51cgw9.cc/sites/4658.html?utm_source=github&utm_campaign=main) | 老牌苹果资讯网站，汇总 Apple 新品传闻、系统更新与购买指南，并有活跃的用户论坛。 | 🆓 免费 |
+| [Tom's Hardware](https://51cgw9.cc/sites/4659.html?utm_source=github&utm_campaign=main) | 老牌电脑硬件媒体，提供 CPU、显卡、存储等硬件评测、性能天梯和装机指南。 | 🆓 免费 |
+| [ZDNET](https://51cgw9.cc/sites/4660.html?utm_source=github&utm_campaign=main) | 英文科技媒体，报道 AI、商业科技、网络安全等新闻，并提供软硬件评测与购买建议。 | 🆓 免费 |
+| [The Register](https://51cgw9.cc/sites/4661.html?utm_source=github&utm_campaign=main) | 英国老牌科技新闻网站，以犀利风格报道企业 IT、数据中心、安全和软件行业新闻。 | 🆓 免费 |
+| [XDA](https://51cgw9.cc/sites/4662.html?utm_source=github&utm_campaign=main) | 以安卓开发者论坛起家的科技媒体，报道手机、电脑与软件新闻，并保留刷机和改机社区。 | 🆓 免费 |
+| [TechRadar](https://51cgw9.cc/sites/4663.html?utm_source=github&utm_campaign=main) | 英文科技媒体，提供手机、电脑、电视等消费电子产品的评测、对比和购买指南。 | 🆓 免费 |
+| [Stratechery](https://51cgw9.cc/sites/4664.html?utm_source=github&utm_campaign=main) | Ben Thompson 撰写的科技商业分析专栏，深度解读科技公司战略与行业格局，部分内容需付费订阅。 | 💡 免费+付费 |
+| [The Information](https://51cgw9.cc/sites/4665.html?utm_source=github&utm_campaign=main) | 以独家报道见长的付费科技商业媒体，关注硅谷公司、AI 和创投等领域。 | 💰 付费 |
+| [香港交易所](https://51cgw9.cc/sites/4686.html?utm_source=github&utm_campaign=main) | 香港交易及结算所官网，发布港股市场数据、上市公司信息、新股上市资讯与交易规则。 | 🆓 免费 |
+| [老虎证券](https://51cgw9.cc/sites/4687.html?utm_source=github&utm_campaign=main) | 面向华人投资者的互联网券商，支持美股、港股等多个市场的股票、期权和基金交易。 | — |
+| [财联社](https://51cgw9.cc/sites/4688.html?utm_source=github&utm_campaign=main) | 国内财经新闻与通讯社，以 7×24 小时「电报」财经快讯和 A 股相关报道著称。 | 🇨🇳 直连 💡 免费+付费 |
+| [金十数据](https://51cgw9.cc/sites/4689.html?utm_source=github&utm_campaign=main) | 财经资讯与交易工具网站，提供全球市场 7×24 快讯、财经日历以及外汇、黄金等行情数据。 | 🇨🇳 直连 💡 免费+付费 |
+| [快手创作者服务平台](https://51cgw9.cc/sites/4889.html?utm_source=github&utm_campaign=main) | 快手官方的网页端创作者后台，可在电脑上发布视频、管理作品并查看数据。 | 🇨🇳 直连 🆓 免费 |
+| [哔哩哔哩创作中心](https://51cgw9.cc/sites/4890.html?utm_source=github&utm_campaign=main) | 哔哩哔哩的创作者后台，UP 主可上传投稿视频与专栏、管理稿件并查看数据和收益。 | 🇨🇳 直连 🆓 免费 |
+| [企鹅号](https://51cgw9.cc/sites/4891.html?utm_source=github&utm_campaign=main) | 腾讯内容开放平台，创作者发布的图文和视频可在腾讯新闻、QQ 浏览器等腾讯产品中分发。 | 🇨🇳 直连 🆓 免费 |
+| [搜狐号](https://51cgw9.cc/sites/4892.html?utm_source=github&utm_campaign=main) | 搜狐旗下的自媒体内容平台，作者可发布文章与视频，内容在搜狐网和搜狐新闻客户端分发。 | 🇨🇳 直连 🆓 免费 |
+| [大鱼号](https://51cgw9.cc/sites/4893.html?utm_source=github&utm_campaign=main) | 阿里大文娱旗下的内容创作平台，作者的内容可在 UC、优酷等平台分发。 | 🇨🇳 直连 🆓 免费 |
+| [LOFTER](https://51cgw9.cc/sites/4894.html?utm_source=github&utm_campaign=main) | 网易旗下的兴趣内容社区，以摄影、插画和同人创作等图文内容为主。 | 🇨🇳 直连 🆓 免费 |
+| [智东西](https://51cgw9.cc/sites/4924.html?utm_source=github&utm_campaign=main) | 聚焦人工智能与智能产业的中文科技媒体，报道 AI 公司、芯片和智能硬件动态。 | 🇨🇳 直连 🆓 免费 |
+| [甲子光年](https://51cgw9.cc/sites/4925.html?utm_source=github&utm_campaign=main) | 科技产业智库与媒体，关注人工智能等前沿科技的产业化，发布报道与研究报告。 | 🇨🇳 直连 🆓 免费 |
+| [Import AI](https://51cgw9.cc/sites/4926.html?utm_source=github&utm_campaign=main) | Anthropic 联合创始人 Jack Clark 撰写的 AI 研究周报，梳理重要论文与行业动态。 | 🆓 免费 |
+| [Last Week in AI](https://51cgw9.cc/sites/4927.html?utm_source=github&utm_campaign=main) | 每周汇总 AI 新闻的通讯与播客，梳理研究、产品和政策方面的重要进展。 | 🆓 免费 |
+| [AINews by smol.ai](https://51cgw9.cc/sites/4928.html?utm_source=github&utm_campaign=main) | smol.ai 出品的 AI 日报，汇总 X、Reddit、Discord 等社区里的 AI 工程讨论。 | 🆓 免费 |
+| [Interconnects](https://51cgw9.cc/sites/4929.html?utm_source=github&utm_campaign=main) | 研究员 Nathan Lambert 撰写的 AI 通讯，深入讨论大模型训练、开源模型与行业趋势。 | 💡 免费+付费 |
+| [威锋网](https://51cgw9.cc/sites/5008.html?utm_source=github&utm_campaign=main) | 以苹果产品为主的数码资讯与社区，提供新闻、教程和用户讨论区。 | 🇨🇳 直连 🆓 免费 |
 
 ## 生活服务
 
@@ -1732,6 +1960,40 @@
 | [青岛航空](https://51cgw9.cc/sites/4226.html?utm_source=github&utm_campaign=main) | 以青岛为主基地的航空公司，官网提供机票预订、值机与会员服务。 | 🇨🇳 直连 |
 | [澳门航空](https://51cgw9.cc/sites/4227.html?utm_source=github&utm_campaign=main) | 以澳门为基地的航空公司，主要经营往返澳门与内地、东南亚等地的航线。 | — |
 | [全日空 ANA](https://51cgw9.cc/sites/4228.html?utm_source=github&utm_campaign=main) | 日本全日空航空官网，可预订国际与日本国内航班、选座和办理值机。 | — |
+| [乐有家](https://51cgw9.cc/sites/4542.html?utm_source=github&utm_campaign=main) | 源自深圳的房产经纪品牌官网，提供二手房、新房、租房房源和房价查询，以深圳等华南城市为主。 | 🇨🇳 直连 🆓 免费 |
+| [巴乐兔](https://51cgw9.cc/sites/4543.html?utm_source=github&utm_campaign=main) | 在线租房平台，提供整租、合租及品牌公寓房源信息，可按城市、地铁和价格筛选。 | 🇨🇳 直连 🆓 免费 |
+| [住房和城乡建设部](https://51cgw9.cc/sites/4544.html?utm_source=github&utm_campaign=main) | 中华人民共和国住房和城乡建设部官网，发布住房、房地产市场和城乡建设相关的政策法规与政务信息。 | 🇨🇳 直连 🆓 免费 |
+| [Zillow](https://51cgw9.cc/sites/4545.html?utm_source=github&utm_campaign=main) | 美国主要的房地产信息平台之一，可查找待售与出租房源，并查看 Zestimate 房价估算和房贷信息。 | 🆓 免费 |
+| [Rightmove](https://51cgw9.cc/sites/4546.html?utm_source=github&utm_campaign=main) | 英国主要的房产门户网站之一，汇集中介挂牌的待售与出租房源，可按地区、价格和户型筛选。 | 🆓 免费 |
+| [国聘](https://51cgw9.cc/sites/4608.html?utm_source=github&utm_campaign=main) | 主打央企、国企和事业单位岗位的招聘平台，涵盖校园招聘与社会招聘。 | 🇨🇳 直连 🆓 免费 |
+| [24365 大学生就业服务平台](https://51cgw9.cc/sites/4609.html?utm_source=github&utm_campaign=main) | 教育部主办的国家大学生就业服务平台，提供校园招聘岗位、网络招聘会和就业指导服务。 | 🇨🇳 直连 🆓 免费 |
+| [电鸭社区](https://51cgw9.cc/sites/4610.html?utm_source=github&utm_campaign=main) | 专注远程工作的中文社区，发布远程岗位与外包需求，并交流自由职业与远程办公经验。 | 🇨🇳 直连 🆓 免费 |
+| [Wellfound](https://51cgw9.cc/sites/4611.html?utm_source=github&utm_campaign=main) | 原 AngelList Talent，专注创业公司的招聘平台，岗位信息标明薪资与股权范围，求职者可直接联系招聘方。 | 🆓 免费 |
+| [Remote OK](https://51cgw9.cc/sites/4612.html?utm_source=github&utm_campaign=main) | 全球远程工作招聘网站，汇集编程、设计、市场等远程岗位，并公开薪资区间。 | 🆓 免费 |
+| [We Work Remotely](https://51cgw9.cc/sites/4613.html?utm_source=github&utm_campaign=main) | 老牌远程工作招聘板，岗位覆盖编程、设计、客服、销售等，均为可远程工作的职位。 | 🆓 免费 |
+| [问界](https://51cgw9.cc/sites/4636.html?utm_source=github&utm_campaign=main) | 赛力斯与华为联合设计的问界（AITO）汽车官网，可了解 M 系列车型配置、价格并预约试驾。 | 🇨🇳 直连 🆓 免费 |
+| [吉利汽车](https://51cgw9.cc/sites/4637.html?utm_source=github&utm_campaign=main) | 吉利汽车官方网站，介绍旗下车型、品牌动态与全球业务信息。 | 🇨🇳 直连 🆓 免费 |
+| [长城汽车](https://51cgw9.cc/sites/4638.html?utm_source=github&utm_campaign=main) | 长城汽车官网，汇集哈弗、魏牌、坦克、欧拉和长城皮卡等品牌的车型信息与购车服务入口。 | 🇨🇳 直连 🆓 免费 |
+| [零跑汽车](https://51cgw9.cc/sites/4639.html?utm_source=github&utm_campaign=main) | 零跑汽车官网，介绍旗下智能电动车型的配置与售价，并提供预约试驾入口。 | 🇨🇳 直连 🆓 免费 |
+| [极氪](https://51cgw9.cc/sites/4640.html?utm_source=github&utm_campaign=main) | 吉利控股旗下高端电动车品牌极氪的官网，展示旗下车型并提供订购与用户服务入口。 | 🇨🇳 直连 🆓 免费 |
+| [车质网](https://51cgw9.cc/sites/4641.html?utm_source=github&utm_campaign=main) | 第三方汽车投诉与质量评价平台，车主可在线投诉车辆质量与服务问题，并查看投诉排行与质量报告。 | 🇨🇳 直连 🆓 免费 |
+| [国家医保服务平台](https://51cgw9.cc/sites/4690.html?utm_source=github&utm_campaign=main) | 国家医疗保障局的网上服务平台，可查询医保参保信息、定点医药机构和医保目录，并办理异地就医备案等业务。 | 🇨🇳 直连 🆓 免费 |
+| [国家移民管理局](https://51cgw9.cc/sites/4691.html?utm_source=github&utm_campaign=main) | 国家移民管理局官网，发布出入境政策、证件办理指南和通关信息，并提供政务服务入口。 | 🇨🇳 直连 🆓 免费 |
+| [中国领事服务网](https://51cgw9.cc/sites/4692.html?utm_source=github&utm_campaign=main) | 外交部主办的领事服务网站，提供海外安全提醒、出国须知以及护照、签证等领事服务信息。 | 🇨🇳 直连 🆓 免费 |
+| [中国铁塔](https://51cgw9.cc/sites/4879.html?utm_source=github&utm_campaign=main) | 负责通信铁塔等基础设施建设运营的央企官网，介绍站址共享、能源换电和智慧城市等业务。 | 🇨🇳 直连 🆓 免费 |
+| [csl](https://51cgw9.cc/sites/4880.html?utm_source=github&utm_campaign=main) | 香港电讯旗下的流动通讯品牌官网，提供 5G 月费计划、储值卡和漫游数据服务。 | — |
+| [3香港](https://51cgw9.cc/sites/4881.html?utm_source=github&utm_campaign=main) | 和记电讯旗下的香港流动通讯品牌官网，提供 5G 月费计划、储值卡和漫游服务。 | — |
+| [SmarTone 数码通](https://51cgw9.cc/sites/4882.html?utm_source=github&utm_campaign=main) | 香港流动通讯运营商数码通的官网，提供 5G 月费计划、储值卡、家居宽频和漫游服务。 | — |
+| [中华电信](https://51cgw9.cc/sites/4883.html?utm_source=github&utm_campaign=main) | 台湾最大的电信运营商官网，提供行动通信、HiNet 宽带、市话和企业通信服务。 | — |
+| [台湾大哥大](https://51cgw9.cc/sites/4884.html?utm_source=github&utm_campaign=main) | 台湾主要电信运营商之一的官网，提供 5G 行动资费、预付卡、宽带和数字服务。 | — |
+| [远传电信](https://51cgw9.cc/sites/4885.html?utm_source=github&utm_campaign=main) | 远东集团旗下台湾电信运营商官网，提供 5G 行动资费、预付卡、宽带和企业服务。 | — |
+| [Komoot](https://51cgw9.cc/sites/4948.html?utm_source=github&utm_campaign=main) | 户外路线规划与导航应用，可规划徒步、骑行和跑步路线，并提供离线地图与语音导航。 | 💡 免费+付费 |
+| [AllTrails](https://51cgw9.cc/sites/4949.html?utm_source=github&utm_campaign=main) | 收录大量徒步路线的户外应用，提供路线评价、地图和导航功能。 | 💡 免费+付费 |
+| [六只脚](https://51cgw9.cc/sites/4950.html?utm_source=github&utm_campaign=main) | 国内户外运动轨迹分享平台，用户可记录和下载徒步、骑行等户外轨迹。 | 🇨🇳 直连 💡 免费+付费 |
+| [摩托罗拉中国](https://51cgw9.cc/sites/5039.html?utm_source=github&utm_campaign=main) | 摩托罗拉手机中国官网，展示 moto 手机产品并提供购买与售后服务入口。 | 🇨🇳 直连 🆓 免费 |
+| [中兴](https://51cgw9.cc/sites/5040.html?utm_source=github&utm_campaign=main) | 中兴通讯官网，介绍通信网络设备、终端手机和政企业务。 | 🇨🇳 直连 🆓 免费 |
+| [Fairphone](https://51cgw9.cc/sites/5041.html?utm_source=github&utm_campaign=main) | 荷兰的可持续手机品牌，以模块化、可自行维修和长期软件支持为特点。 | 💰 付费 |
+| [中央气象台](https://51cgw9.cc/sites/5046.html?utm_source=github&utm_campaign=main) | 中央气象台官网，发布全国天气预报、气象预警、台风和雷达云图。 | 🇨🇳 直连 🆓 免费 |
 
 ## 影音娱乐
 
@@ -1901,6 +2163,35 @@
 | [豆瓣音乐](https://51cgw9.cc/sites/4190.html?utm_source=github&utm_campaign=main) | 豆瓣的音乐频道，可查唱片信息、打分写乐评，并发现新专辑与音乐人。 | 🇨🇳 直连 🆓 免费 |
 | [波点音乐](https://51cgw9.cc/sites/4191.html?utm_source=github&utm_campaign=main) | 腾讯音乐旗下、由酷我团队推出的音乐 App，主打年轻用户与视频化听歌体验。 | 🇨🇳 直连 💡 免费+付费 |
 | [Bigo Live](https://51cgw9.cc/sites/4212.html?utm_source=github&utm_campaign=main) | 欢聚集团旗下的全球直播平台，在东南亚、中东等地区流行，支持秀场、游戏直播与语音聊天室。 | 🆓 免费 |
+| [梨视频](https://51cgw9.cc/sites/4540.html?utm_source=github&utm_campaign=main) | 以资讯和纪实类内容为主的短视频平台，内容来自专业团队与遍布各地的拍客网络，记录社会百态故事。 | 🇨🇳 直连 🆓 免费 |
+| [美拍](https://51cgw9.cc/sites/4541.html?utm_source=github&utm_campaign=main) | 美图公司旗下的短视频社区，内容以美妆、时尚、舞蹈、萌宠等生活类视频为主。 | 🇨🇳 直连 🆓 免费 |
+| [QQ阅读](https://51cgw9.cc/sites/4592.html?utm_source=github&utm_campaign=main) | 阅文集团旗下的阅读平台，汇集阅文作品库中的网络小说与出版图书，支持网页和 App 阅读。 | 🇨🇳 直连 💡 免费+付费 |
+| [飞卢小说网](https://51cgw9.cc/sites/4593.html?utm_source=github&utm_campaign=main) | 以同人小说和快节奏网文著称的原创小说网站，部分章节需付费订阅。 | 🇨🇳 直连 💡 免费+付费 |
+| [逐浪小说](https://51cgw9.cc/sites/4594.html?utm_source=github&utm_campaign=main) | 连尚文学旗下的原创文学网站，提供玄幻、都市、言情等类型的网络小说连载。 | 🇨🇳 直连 💡 免费+付费 |
+| [塔读文学](https://51cgw9.cc/sites/4595.html?utm_source=github&utm_campaign=main) | 在线小说阅读平台，提供都市、玄幻、言情等类型作品，主打大量免费阅读。 | 🇨🇳 直连 💡 免费+付费 |
+| [黑岩网](https://51cgw9.cc/sites/4596.html?utm_source=github&utm_campaign=main) | 原创网络文学网站，作品涵盖都市、悬疑、玄幻、言情等类型，支持网页阅读与作者投稿。 | 🇨🇳 直连 💡 免费+付费 |
+| [Snipd](https://51cgw9.cc/sites/4614.html?utm_source=github&utm_campaign=main) | AI 播客播放器，收听时可一键截取精彩片段，自动生成文字摘要并同步到笔记工具。 | 💡 免费+付费 |
+| [Podbean](https://51cgw9.cc/sites/4615.html?utm_source=github&utm_campaign=main) | 播客托管与发布平台，提供节目托管、分发到各大播客应用、数据统计和变现工具，也可收听节目。 | 💡 免费+付费 |
+| [Buzzsprout](https://51cgw9.cc/sites/4616.html?utm_source=github&utm_campaign=main) | 简单易用的播客托管服务，帮主播上传节目、生成 RSS 并提交到 Apple Podcasts、Spotify 等平台。 | 💡 免费+付费 |
+| [iHeartRadio](https://51cgw9.cc/sites/4617.html?utm_source=github&utm_campaign=main) | 美国大型音频平台，可免费收听直播电台、播客和音乐电台，部分内容仅限美国地区。 | 💡 免费+付费 |
+| [Castro](https://51cgw9.cc/sites/4618.html?utm_source=github&utm_campaign=main) | iOS 上的播客应用，用「收件箱」方式管理新单集，由用户决定哪些单集进入播放队列。 | 💡 免费+付费 |
+| [Musixmatch](https://51cgw9.cc/sites/4646.html?utm_source=github&utm_campaign=main) | 规模很大的在线歌词库，提供同步滚动歌词和歌词翻译，也为多家音乐平台提供歌词服务。 | 💡 免费+付费 |
+| [Jamendo](https://51cgw9.cc/sites/4647.html?utm_source=github&utm_campaign=main) | 独立音乐人作品平台，以知识共享协议提供免费收听和下载，另有商用音乐授权服务。 | 💡 免费+付费 |
+| [Pandora](https://51cgw9.cc/sites/4648.html?utm_source=github&utm_campaign=main) | 美国的个性化音乐电台与流媒体服务，根据喜好自动生成电台，仅在美国提供服务。 | 💡 免费+付费 |
+| [Streamlabs](https://51cgw9.cc/sites/4649.html?utm_source=github&utm_campaign=main) | 面向游戏与娱乐主播的直播工具套件，提供 Streamlabs Desktop 推流软件、打赏提醒和直播画面叠加。 | 💡 免费+付费 |
+| [StreamYard](https://51cgw9.cc/sites/4650.html?utm_source=github&utm_campaign=main) | 在浏览器中使用的直播与录制工具，无需安装软件即可邀请嘉宾，并同时推流到 YouTube、LinkedIn 等平台。 | 💡 免费+付费 |
+| [Restream](https://51cgw9.cc/sites/4651.html?utm_source=github&utm_campaign=main) | 多平台同步推流服务，可把一路直播同时分发到 YouTube、Twitch、Facebook 等平台，并聚合评论。 | 💡 免费+付费 |
+| [保利威](https://51cgw9.cc/sites/4652.html?utm_source=github&utm_campaign=main) | 国内企业视频云与直播服务商，提供培训直播、会议直播、营销直播和视频点播加密等方案。 | 🇨🇳 直连 💰 付费 |
+| [腾讯音乐人](https://51cgw9.cc/sites/4943.html?utm_source=github&utm_campaign=main) | 腾讯音乐娱乐集团的音乐人服务平台，音乐人可把作品发行到 QQ 音乐、酷狗和酷我等平台。 | 🇨🇳 直连 🆓 免费 |
+| [Nextdoor](https://51cgw9.cc/sites/4966.html?utm_source=github&utm_campaign=main) | 以街区为单位的邻里社交网络，居民可交流本地消息、推荐商家和发布闲置。 | 🆓 免费 |
+| [Pixelfed](https://51cgw9.cc/sites/4967.html?utm_source=github&utm_campaign=main) | 开源去中心化的图片分享社交网络，基于 ActivityPub，可与 Mastodon 等互通。 | 🆓 免费 |
+| [Lemmy](https://51cgw9.cc/sites/4968.html?utm_source=github&utm_campaign=main) | 开源去中心化的链接聚合与讨论社区软件，用户可加入不同实例的社区讨论。 | 🆓 免费 |
+| [Farcaster](https://51cgw9.cc/sites/4969.html?utm_source=github&utm_campaign=main) | 基于区块链身份的去中心化社交网络，用户可发帖、加入频道并使用小程序。 | — |
+| [Plurk](https://51cgw9.cc/sites/4970.html?utm_source=github&utm_campaign=main) | 以时间轴形式展示的微博客社交网站，在台湾地区用户较多。 | 🆓 免费 |
+| [中国足协](https://51cgw9.cc/sites/5009.html?utm_source=github&utm_campaign=main) | 中国足球协会官网，发布国家队、联赛和青训等足球官方信息。 | 🇨🇳 直连 🆓 免费 |
+| [中国奥委会](https://51cgw9.cc/sites/5010.html?utm_source=github&utm_campaign=main) | 中国奥林匹克委员会官网，发布奥运会参赛信息、运动项目和体育新闻。 | 🇨🇳 直连 🆓 免费 |
+| [国家体育总局](https://51cgw9.cc/sites/5011.html?utm_source=github&utm_campaign=main) | 国家体育总局官网，发布体育政策、赛事信息和全民健身相关内容。 | 🇨🇳 直连 🆓 免费 |
+| [雷速体育](https://51cgw9.cc/sites/5012.html?utm_source=github&utm_campaign=main) | 体育比分与数据网站，提供足球、篮球等赛事的即时比分、赛程和统计数据。 | 🇨🇳 直连 🆓 免费 |
 
 ## 搜索与知识
 
@@ -2050,6 +2341,17 @@
 | [术语在线](https://51cgw9.cc/sites/4210.html?utm_source=github&utm_campaign=main) | 全国科学技术名词审定委员会主办的规范术语知识服务平台，可查询各学科审定名词及中英对照。 | 🇨🇳 直连 🆓 免费 |
 | [Infoplease](https://51cgw9.cc/sites/4211.html?utm_source=github&utm_campaign=main) | 综合参考资料网站，提供百科、年鉴、地图、人物传记与历史等内容。 | 🆓 免费 |
 | [搜狗问问](https://51cgw9.cc/sites/4234.html?utm_source=github&utm_campaign=main) | 搜狗旗下的互动问答社区，用户可提问和回答生活、学习、科技等各类问题。 | 🇨🇳 直连 🆓 免费 |
+| [稻壳儿](https://51cgw9.cc/sites/4534.html?utm_source=github&utm_campaign=main) | WPS 旗下的办公模板与素材平台，提供 PPT、Word、Excel 模板及简历、课件等文档资源，部分需会员下载。 | 🇨🇳 直连 💡 免费+付费 |
+| [CSSCI 中文社会科学引文索引](https://51cgw9.cc/sites/4577.html?utm_source=github&utm_campaign=main) | 南京大学中国社会科学研究评价中心研制的中文社会科学引文索引，用于检索人文社科论文引文并查看来源期刊目录。 | 🇨🇳 直连 |
+| [作业帮](https://51cgw9.cc/sites/4676.html?utm_source=github&utm_campaign=main) | 国内 K12 学习平台，作业帮 App 提供拍照搜题、题目解析和在线辅导，覆盖中小学各学科。 | 🇨🇳 直连 💡 免费+付费 |
+| [Physics Stack Exchange](https://51cgw9.cc/sites/4677.html?utm_source=github&utm_campaign=main) | Stack Exchange 网络中的物理学问答社区，供研究者、学生和爱好者讨论物理问题。 | 🆓 免费 |
+| [Cross Validated](https://51cgw9.cc/sites/4678.html?utm_source=github&utm_campaign=main) | Stack Exchange 网络中的统计学问答社区，讨论统计、机器学习、数据分析和数据可视化。 | 🆓 免费 |
+| [国家科技报告服务系统](https://51cgw9.cc/sites/4905.html?utm_source=github&utm_campaign=main) | 科技部建设的国家科技报告共享服务平台，提供国家科技计划项目科技报告的检索与浏览。 | 🇨🇳 直连 🆓 免费 |
+| [华艺在线图书馆 Airiti Library](https://51cgw9.cc/sites/4906.html?utm_source=github&utm_campaign=main) | 华艺数位的学术数据库，收录台湾及华文地区的学术期刊、学位论文和会议论文。 | — |
+| [搜韵](https://51cgw9.cc/sites/5042.html?utm_source=github&utm_campaign=main) | 古典诗词检索与研究网站，提供诗词检索、格律检测、韵书查询和诗词地图。 | 🇨🇳 直连 🆓 免费 |
+| [古文岛（原古诗文网）](https://51cgw9.cc/sites/5043.html?utm_source=github&utm_campaign=main) | 古诗文阅读与学习网站（原古诗文网），提供古诗词、文言文原文、译文和赏析。 | 🇨🇳 直连 🆓 免费 |
+| [WHO Data](https://51cgw9.cc/sites/5044.html?utm_source=github&utm_campaign=main) | 世界卫生组织的数据门户，提供各国卫生健康指标、疾病和死亡率数据。 | 🆓 免费 |
+| [Data Commons](https://51cgw9.cc/sites/5045.html?utm_source=github&utm_campaign=main) | Google 发起的公共数据聚合平台，整合人口、经济、健康等公开统计数据。 | 🆓 免费 |
 
 ## 币圈Web3
 
@@ -2220,24 +2522,55 @@
 | [Element Market](https://51cgw9.cc/sites/3811.html?utm_source=github&utm_campaign=main) | 多链 NFT 交易市场，支持以太坊、BNB Chain 等多条链。 | 🆓 免费 |
 | [TokenTax](https://51cgw9.cc/sites/3813.html?utm_source=github&utm_campaign=main) | 加密货币税务软件与会计服务，提供自动计算和人工报税支持。 | 💰 付费 |
 | [Airdrop Alert](https://51cgw9.cc/sites/4130.html?utm_source=github&utm_campaign=main) | 老牌加密货币空投信息站，汇总新上线的空投活动和参与步骤（参与前需自行核实项目与风险）。 | 🆓 免费 |
+| [Guild.xyz](https://51cgw9.cc/sites/4552.html?utm_source=github&utm_campaign=main) | Web3 社区权限与任务平台，项目方可按钱包持仓、链上行为等条件给成员分配角色和奖励，常用于社区活动与空投资格。 | — |
+| [Kaito](https://51cgw9.cc/sites/4553.html?utm_source=github&utm_campaign=main) | 面向加密行业的 AI 信息与「注意力经济」平台，汇总社交媒体讨论热度，并提供项目声量排行等数据。 | — |
+| [Coinpanda](https://51cgw9.cc/sites/4554.html?utm_source=github&utm_campaign=main) | 加密货币税务计算与投资组合追踪工具，可导入交易所和钱包记录，生成多个国家适用的税务报告。 | 💡 免费+付费 |
+| [Divly](https://51cgw9.cc/sites/4555.html?utm_source=github&utm_campaign=main) | 源自瑞典的加密货币报税软件，主要面向欧洲用户，按当地税法计算收益并生成申报文件。 | 💡 免费+付费 |
+| [Recap](https://51cgw9.cc/sites/4556.html?utm_source=github&utm_campaign=main) | 面向英国用户的加密货币报税软件，按 HMRC 规则计算资本利得并生成申报报告。 | — |
+| [Bitcoin.tax](https://51cgw9.cc/sites/4557.html?utm_source=github&utm_campaign=main) | 老牌加密货币税务计算网站，可导入交易记录计算资本利得与收入，并导出美国报税所需表格。 | 💡 免费+付费 |
+| [TaxBit](https://51cgw9.cc/sites/4558.html?utm_source=github&utm_campaign=main) | 面向交易所、金融机构和企业的数字资产税务合规平台，提供税表申报、信息报告与会计数据服务。 | 💰 付费 |
+| [ICO Drops](https://51cgw9.cc/sites/4903.html?utm_source=github&utm_campaign=main) | 跟踪加密项目代币发行、融资和空投信息的网站，列出进行中与即将开始的项目。 | — |
+| [CoinList](https://51cgw9.cc/sites/4904.html?utm_source=github&utm_campaign=main) | 加密资产投资平台，用户完成认证后可参与项目代币公开销售等链上资产投资。 | — |
+| [Art Blocks](https://51cgw9.cc/sites/4933.html?utm_source=github&utm_campaign=main) | 以生成艺术为主的 NFT 平台，艺术家用代码创作作品，作品在铸造时链上生成。 | — |
+| [NFT Price Floor](https://51cgw9.cc/sites/4934.html?utm_source=github&utm_campaign=main) | 跟踪 NFT 系列地板价与成交量的行情网站，提供历史价格图表。 | — |
+| [Exchange.art](https://51cgw9.cc/sites/4935.html?utm_source=github&utm_campaign=main) | Solana 链上的 NFT 艺术市场，艺术家可发布单版或系列作品并进行拍卖。 | — |
+| [Ordiscan](https://51cgw9.cc/sites/4936.html?utm_source=github&utm_campaign=main) | 比特币 Ordinals 铭文与 Runes 的浏览器，可查询铭文、地址和代币信息。 | — |
+| [Mintscan](https://51cgw9.cc/sites/5003.html?utm_source=github&utm_campaign=main) | Cosmos 生态的区块浏览器，可查询各链的交易、验证者和治理提案。 | — |
+| [Suiscan](https://51cgw9.cc/sites/5004.html?utm_source=github&utm_campaign=main) | Sui 区块链的区块浏览器，可查询交易、账户、对象和代币信息。 | — |
+| [Nearblocks](https://51cgw9.cc/sites/5005.html?utm_source=github&utm_campaign=main) | NEAR 协议的区块浏览器，可查询交易、账户和代币信息。 | — |
+| [XRPScan](https://51cgw9.cc/sites/5006.html?utm_source=github&utm_campaign=main) | XRP Ledger 的区块浏览器，可查询账户、交易和验证者信息。 | — |
+| [Cardanoscan](https://51cgw9.cc/sites/5007.html?utm_source=github&utm_campaign=main) | Cardano 区块链的浏览器，可查询交易、地址、质押池和代币。 | — |
+| [Morpho](https://51cgw9.cc/sites/5013.html?utm_source=github&utm_campaign=main) | 以太坊等链上的去中心化借贷协议，可创建隔离借贷市场和收益金库。 | — |
+| [Ethena](https://51cgw9.cc/sites/5014.html?utm_source=github&utm_campaign=main) | 发行合成美元 USDe 的 DeFi 协议，通过现货与衍生品对冲维持锚定。 | — |
+| [Aerodrome](https://51cgw9.cc/sites/5015.html?utm_source=github&utm_campaign=main) | Base 链上的去中心化交易所与流动性市场，用户可兑换代币、提供流动性并参与投票激励。 | — |
+| [Orca](https://51cgw9.cc/sites/5016.html?utm_source=github&utm_campaign=main) | Solana 链上的去中心化交易所，提供集中流动性做市。 | — |
+| [Rocket Pool](https://51cgw9.cc/sites/5017.html?utm_source=github&utm_campaign=main) | 去中心化以太坊流动性质押协议，用户可质押 ETH 获得 rETH，或运行节点。 | — |
+| [dYdX](https://51cgw9.cc/sites/5018.html?utm_source=github&utm_campaign=main) | 去中心化永续合约交易平台，运行在自有应用链上，用户可连接钱包交易加密永续合约。 | — |
+| [CoinStats](https://51cgw9.cc/sites/5019.html?utm_source=github&utm_campaign=main) | 加密货币行情与资产组合追踪工具，可连接交易所和钱包统一查看资产。 | 💡 免费+付费 |
+| [LiveCoinWatch](https://51cgw9.cc/sites/5020.html?utm_source=github&utm_campaign=main) | 加密货币实时行情网站，提供币价、市值、交易量和交易所数据。 | 🆓 免费 |
+| [AICoin](https://51cgw9.cc/sites/5021.html?utm_source=github&utm_campaign=main) | 加密货币行情与交易分析工具，提供多交易所 K 线、指标和资讯。 | — |
+| [Blockaid](https://51cgw9.cc/sites/5022.html?utm_source=github&utm_campaign=main) | Web3 安全公司，为钱包和应用提供交易模拟与恶意合约、钓鱼网站检测。 | — |
+| [Immunefi](https://51cgw9.cc/sites/5023.html?utm_source=github&utm_campaign=main) | Web3 漏洞赏金平台，项目方发布赏金计划，白帽黑客提交漏洞获取奖励。 | 🆓 免费 |
+| [Beosin](https://51cgw9.cc/sites/5024.html?utm_source=github&utm_campaign=main) | 区块链安全公司，提供智能合约审计、链上风险监控和反洗钱服务。 | 💰 付费 |
+| [PeckShield](https://51cgw9.cc/sites/5025.html?utm_source=github&utm_campaign=main) | 区块链安全公司派盾的官网，提供智能合约审计和链上安全监控服务。 | — |
 
 ## 最新专题文章
 
-- [PlayStation官方播客551期更新：下周新作不少，别把发售、预购和会免混在一起](https://51cgw9.cc/topics/playstation-podcast-551-oct16-release-calendar/?utm_source=github&utm_campaign=main)
-- [《PEAK》10月22日登陆PS5：想和朋友跨平台爬山，先把这几件事对齐](https://51cgw9.cc/topics/peak-ps5-oct22-crossplay-before-buy/?utm_source=github&utm_campaign=main)
-- [Spotify推出CLOSER：Hearts2Hearts首发现场，和普通歌单有什么不同](https://51cgw9.cc/topics/spotify-closer-hearts2hearts-video-series/?utm_source=github&utm_campaign=main)
-- [Xbox把Game Camp带到墨西哥城：独立开发者能学到的不只是“参加活动”](https://51cgw9.cc/topics/xbox-latam-game-camp-mexico-creator-lessons/?utm_source=github&utm_campaign=main)
-- [Tenebris Somnia发售：像素游戏突然切真人，适合哪类恐怖游戏玩家](https://51cgw9.cc/topics/tenebris-somnia-live-action-horror-release/?utm_source=github&utm_campaign=main)
-- [郑州马拉松明早开跑：不参赛的人，也该看一眼这些交通时间](https://51cgw9.cc/topics/zhengzhou-marathon-oct18-traffic-checklist/?utm_source=github&utm_campaign=main)
-- [张杰深圳站这个周末连开三场：2026日期和场馆，别套用两年前攻略](https://51cgw9.cc/topics/jason-zhang-shenzhen-october2026-weekend-info/?utm_source=github&utm_campaign=main)
-- [谢霆锋10月17日南昌场：场馆别认错，演出信息与网络现场视频分开看](https://51cgw9.cc/topics/nicholas-tse-nanchang-oct17-concert-public-info/?utm_source=github&utm_campaign=main)
-- [《奔跑吧》大湾区篇进入录制：路透很热闹，但录制不等于已经开播](https://51cgw9.cc/topics/running-man-greater-bay-area-recording-not-airdate/?utm_source=github&utm_campaign=main)
-- [《嫁金钗》开播了：田曦薇、闫桉新剧在哪看，先别被“全集资源”带跑](https://51cgw9.cc/topics/jia-jin-chai-youku-oct16-watch-guide/?utm_source=github&utm_campaign=main)
-- [Google更新Workspace数据说明：不是所有邮件都拿去训练，关键看开关和场景](https://51cgw9.cc/topics/google-workspace-personalization-oct16-privacy-update/?utm_source=github&utm_campaign=main)
-- [NVIDIA公布2.8万亿token印度语言语料计划：先别把“即将发布”当成已能下载](https://51cgw9.cc/topics/nvidia-indic-pretraining-corpus-announced-not-shipped/?utm_source=github&utm_campaign=main)
-- [Cloudflare更新机器人信任机制：Verified不等于永远放行，站长该看什么](https://51cgw9.cc/topics/cloudflare-verified-bots-continuous-accountability/?utm_source=github&utm_campaign=main)
-- [印度CERT-In发布AI Agent安全通告：给了任务，不代表给了所有权限](https://51cgw9.cc/topics/cert-in-ai-agent-advisory-permission-boundaries/?utm_source=github&utm_campaign=main)
-- [Anthropic发布工作研究：AI用得多，为什么不等于所有岗位都会同样变化](https://51cgw9.cc/topics/anthropic-ai-work-expectations-study-boundary/?utm_source=github&utm_campaign=main)
+- [Qubic 1404个钱包被盗：问题出在种子随机数，用苹果设备建过钱包的人怎么自查](https://51cgw9.cc/topics/qubic-wallet-drain-seed-randomness-what-to-do/?utm_source=github&utm_campaign=main)
+- [苹果App审核新规（10月16日）：AI换脸裸图、审核后偷偷加功能，开发者要改什么](https://51cgw9.cc/topics/apple-app-review-guidelines-oct16-ai-nudify/?utm_source=github&utm_campaign=main)
+- [Mistral Timestral是什么？2亿参数的时间序列预测模型，CPU就能跑，谁用得上](https://51cgw9.cc/topics/mistral-timestral-time-series-forecast-what-is/?utm_source=github&utm_campaign=main)
+- [可灵4.0上线：一次生成30秒视频、10个关键帧，怎么用、多少积分、哪些还没开](https://51cgw9.cc/topics/kling-4-0-30s-video-how-to-price/?utm_source=github&utm_campaign=main)
+- [ChatGPT Slides怎么用？对话直接出PPT，谁能用、怎么导出、Windows 10为什么不行](https://51cgw9.cc/topics/chatgpt-slides-how-to-use-export-ppt/?utm_source=github&utm_campaign=main)
+- [Cloudflare和OpenAI的发现试点出结果了？站长该不该为此改robots](https://51cgw9.cc/topics/cloudflare-openai-discovery-pilot-what-means/?utm_source=github&utm_campaign=main)
+- [Cloudflare Workers AI上线PhoneLLM Mini：语音Agent要快又要会调工具，怎么跑](https://51cgw9.cc/topics/cloudflare-phonellm-mini-workers-ai-how-to/?utm_source=github&utm_campaign=main)
+- [CME要上Uniswap期货了？10月19日上市怎么回事、合约多大、和买UNI现货差在哪](https://51cgw9.cc/topics/cme-uni-futures-oct19-what-is/?utm_source=github&utm_campaign=main)
+- [嘉信Schwab Crypto是什么？比特币以太坊能直接买吗、费率0.75%怎么算、大陆能开吗](https://51cgw9.cc/topics/schwab-crypto-btc-eth-trading-what-is/?utm_source=github&utm_campaign=main)
+- [Android地震预警扩到200多个地区：三种警报怎么分、怎么确认已开启](https://51cgw9.cc/topics/android-earthquake-alerts-200-regions-how-to/?utm_source=github&utm_campaign=main)
+- [Google AI Mode又改了：内联链接上移、权威页置顶，站长和普通用户各看什么](https://51cgw9.cc/topics/google-ai-mode-inline-links-oct15-update/?utm_source=github&utm_campaign=main)
+- [OpenAI Rosalind学术计划是什么？谁能申请、免费用多久、含不含API](https://51cgw9.cc/topics/openai-rosalind-academic-plan-how-to-apply/?utm_source=github&utm_campaign=main)
+- [Slack Work Object Embeds是什么？链接不用新开标签，谁能用、管理员怎么控](https://51cgw9.cc/topics/slack-work-object-embeds-how-to/?utm_source=github&utm_campaign=main)
+- [Stack Overflow for Agents是什么？ChatGPT插件怎么开、注册涨了多少、和MCP差在哪](https://51cgw9.cc/topics/stack-overflow-agents-chatgpt-plugin-how-to/?utm_source=github&utm_campaign=main)
+- [Anthropic用Scion换掉Git了？每天3万次合并，对普通团队意味着什么](https://51cgw9.cc/topics/anthropic-scion-git-replacement-what-means/?utm_source=github&utm_campaign=main)
 
 ## 参与贡献
 
@@ -2245,6 +2578,6 @@
 
 ---
 
-数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-18。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
+数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-19。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
 
 许可：[CC0 1.0](LICENSE)
