@@ -4,7 +4,7 @@
 
 **中文 AI 工具与常用网站导航清单 · 每日自动同步**
 
-[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-3142-blue) ![更新](https://img.shields.io/badge/更新-2026--10--22-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
+[![站点](https://img.shields.io/badge/官网-51cgw9.cc-7c3aed)](https://51cgw9.cc/?utm_source=github) ![工具数](https://img.shields.io/badge/收录-3142-blue) ![更新](https://img.shields.io/badge/更新-2026--10--23-green) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ![License](https://img.shields.io/badge/license-CC0-lightgrey)
 
 </div>
 
@@ -3253,6 +3253,6 @@
 
 ---
 
-数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-22。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
+数据由 [51发现导航](https://51cgw9.cc/?utm_source=github) 提供，最近同步：2026-10-23。发现失效或想推荐工具？欢迎提 [Issue](../../issues) 或在 [51cgw9.cc/submit](https://51cgw9.cc/submit/?utm_source=github) 提交。
 
 许可：[CC0 1.0](LICENSE)
